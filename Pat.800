@@ -1,0 +1,125 @@
+// Double Action games
+{ 801, G801,2,PDEA_NONE, regpost4corn, 0 , FRM_801 }, 
+{ 802, G802,1,PDEA_NONE, coverall, 0 , FRM_802 }, 
+{ 803, G803,1,PDEA_NONE, SM_803, 0 , FRM_803 }, 
+{ 804, G804,1,PDEA_NONE, SM_804,0, FRM_804 },
+{ 805, G805,1,PDEA_NONE, awsl_and_4C, 0 , FRM_805 }, 
+{ 806, G806,1,PDEA_NONE, packany9, 0 , FRM_806 }, 
+{ 807, G807,2,PDEA_NONE, awsl, 0 , FRM_807 }, 
+{ 808, G808,1,PDEA_COUNT | PDEA_USEFREE, coverall, 10 , FRM_808 }, 
+{ 809, G809,2,PDEA_NONE, corner_stamp, 0 , FRM_809 }, 
+{ 810, G810,1,PDEA_NONE, SM_810,  0 , FRM_810 }, 
+{ 811, G811,1,PDEA_NONE, any_stamp_4C, 0 , FRM_811 }, 
+{ 812, G812,1,PDEA_NONE, opencorral, 0 , FRM_812 }, 
+{ 813, G813,2,PDEA_NONE, horizontal_line, 0 , FRM_813 }, 
+{ 814, G814,1,PDEA_NONE, inside_frame,0, FRM_814 },
+{ 815, G815,1,PDEA_NONE, coverall, 0 , FRM_815 }, 
+{ 816, G816,3,PDEA_NONE, awsl, 0 , FRM_816 }, 
+{ 817, "DA Letter X",1,PDEA_NONE, letterx, 0 , FRM_011 }, 
+{ 818, "DA 3 HorzConLn",1,PDEA_NONE, SM_818, 0 , FRM_818 }, 
+{ 819, "DA Tpl Hardway",3,PDEA_NONE, hardway, 0 , FRM_819 }, 
+{ 820, "DA Top Hat",1,PDEA_NONE, SM_220, 0 , FRM_220 }, 
+{ 821, "DA Indian Star",1,PDEA_NONE, indianstar, 0 , FRM_016 }, 
+{ 822, "DA Letter Z",1,PDEA_NONE, SM_093, 0 , FRM_093 }, 
+{ 823, "DA Pin Wheel",1,PDEA_NONE, SM_096, 0 , FRM_096 }, 
+{ 824, "DA Bkn Pin Wheel",1,PDEA_ROTATING, SM_211, 0 , FRM_211 }, 
+{ 825, "DA Butterfly",1,PDEA_NONE, SM_X182, 0 , FRM_X182 }, 
+{ 827, "DA Number 13",1,PDEA_NONE, SM_289, 0 , FRM_X289 }, 
+{ 828, "DA Hammer",1,PDEA_ROTATING, SM_X845, 0 , FRM_X845 }, 
+{ 829, "DA Coverall -1",1,PDEA_NONE, SM_X534, 0 , FRM_X534 }, 
+{ 830, "DA Large Diamond",1,PDEA_NONE, lgdiamond, 0 , FRM_013 },
+{ 831, "DA Lg Pict Frame",1,PDEA_NONE, outside_frame,0, FRM_002 },
+{ 832, "DA Double Bingo",2,PDEA_NONE, awsl4corn,0, FRM_024 },
+{ 833, "DA Stickman",1,PDEA_NONE, SM_X1307, 0, SM_X1307 },
+{ 834, "DA Coffee Cup", 1, PDEA_NONE, SM_X989, 0, SM_X989 },
+{ 835, "DA $ Sign", 1, PDEA_NONE, SM_X665, 0, SM_X665 },
+{ 836, "DA Fly Swatter", 1, PDEA_NONE, SM_836, 0, SM_836 },
+{ 837, "DA Cent Sign", 1, PDEA_NONE, SM_299, 0, SM_299 },
+{ 838, "DA Flower", 1, PDEA_NONE, SM_2718, 0, SM_2718 },
+{ 839, "DA Ironing Board", 1, PDEA_NONE, SM_075, 0, SM_075 },
+{ 840, "DA Dog", 1, PDEA_NONE, SM_840, 0, SM_840 },
+{ 841, "DA Mask", 1, PDEA_NONE, SM_841, 0, SM_841 },
+{ 842, "DA Number 10", 1, PDEA_NONE, SM_X252, 0, SM_X252 },
+{ 843, "DA Heart", 1, PDEA_NONE, SM_843, 0, SM_843 },
+{ 844, "DA Man", 1, PDEA_NONE, SM_2724, 0, SM_2724 },
+{ 845, "DA Champagne Cup", 1, PDEA_NONE, SM_X018, 0, SM_X018 },
+{ 846, "DA 4 Corners", 1, PDEA_NONE, SM_846, 0, SM_846 },
+{ 847, "DA Anti (N)", 1, PDEA_NONE, SM_847, 0, SM_847 },
+{ 848, "DA Diagonal", 1, PDEA_NONE, diagonal, 0, diagonal },
+{ 849, "DA Corner Stamp" ,1,PDEA_NONE, corner_stamp, 0 , FRM_809 }, 
+{ 850, "DA X & Cross" ,1,PDEA_NONE, SM_850, 0 , SM_850 },
+{ 851, "DA Letter A" ,1,PDEA_NONE, SM_851, 0 , SM_851 }, 
+{ 852, "DA Sm. Frame & 4 Crn" ,1,PDEA_NONE, SM_852, 0 , SM_852 }, 
+{ 853, "DA Double Hardway" ,2,PDEA_NONE, hardway, 0 , FRM_853 }, 
+{ 854, "DA Broken Picture Frm" ,1,PDEA_NONE, SM_854, 0 , SM_854 }, 
+{ 855, "DA RevOpnLgDia", 1, PDEA_NONE, SM_855, 0, SM_855 },
+{ 856, "DA Any 3 Line/OC", 3, PDEA_NONE, awsl4corn, 0, FRM_816 },
+{ 857, "DA Solid Diamond", 1, PDEA_NONE, SM_857, 0, SM_857 },
+{ 858, "DA Stocking", 1, PDEA_NONE, SM_3269, 0, SM_3269},
+{ 859, "DA 1 Line or OC",1,PDEA_NONE, awsl4corn,0, FRM_023 },
+{ 860, "DA 2 Hard 6Packs",2,PDEA_NOOVERLAP, hard_6pack, 0 , FRM_X653 }, 
+{ 861, "DA Checker Board", 1, PDEA_NONE, SM_X105, 0, SM_X105 },
+{ 862, "DA Single Bingo", 1, PDEA_NONE, awsl, 0, FRM_001 },
+{ 863, "DA 3 Layer Cake", 1, PDEA_NONE, FRM_004, 0, FRM_004 },
+{ 864, "DA Crazy T", 1, PDEA_ROTATING, FRM_014, 0, FRM_014 },
+{ 865, "DA Crazy Sm. Kite", 1, PDEA_ROTATING, FRM_012, 0, FRM_012 },
+{ 866, "DA White Cross", 1, PDEA_NONE, SM_X299, 0, SM_X299 },
+
+// Jackpot Bingo
+{ 867, "DA Hour Glass", 1, PDEA_NONE, SM_X140, 0, SM_X140 },
+
+// Blue Water
+{ 868, "DA Castle", 1, PDEA_NONE, SM_868, 1, SM_868 }, 
+
+//Carefree Bingo
+{ 869, "DA Hard 6 Pack", 1, PDEA_NONE, hard_6pack, 1, FRM_620 }, 
+{ 870, "DA Letter A", 1, PDEA_NONE, SM_870, 1, SM_870 }, 
+{ 871, "DA Letter G", 1, PDEA_NONE, SM_871, 1, SM_871 }, 
+
+// Goldmine Bingo
+{ 872, "DA 4 Any Line",4,PDEA_NONE, awsl, 0 , FRM_134 }, 
+{ 873, "DA Crazy Pyramid",1,PDEA_ROTATING, SM_203, 0 , FRM_203 },
+
+// Sams Junction
+{ 874, "DA Letter U",		1, PDEA_NONE, SM_874, 0, SM_874 },
+
+// Big Top BIngo
+{ 875, "DA LG Frame/CA",	1, PDEA_NONE, SM_154, 0, FRM_154 },
+
+// Slammers Bingo
+{ 876, "DA Number 7",		1, PDEA_NONE, SM_876, 0, SM_876 },
+
+// Chinook Winds Casino
+{ 877, "DA Rectangle",		1, PDEA_NONE, SM_3068, 0, SM_3068 },
+
+// Bigtop Bingo
+{ 878, "DA Crazy Lg Kite",		1,	PDEA_ROTATING,	FRM_015, 0, FRM_015 },
+{ 879, "DA Letter B",			1,	PDEA_NONE,		SM_X531, 0, FRM_X531 },
+{ 880, "DA Any Block of 12",	1,	PDEA_NONE,		SM_097, 0, FRM_097 },
+{ 881, "DA Crazy Bow Tie",		1,	PDEA_NONE,		SM_101, 0, FRM_101 },
+{ 882, "DA B or O",				1,	PDEA_NONE,		SM_882, 0 , SM_882 },
+{ 883, "DA Letter B",			1,	PDEA_NONE,		SM_3476, 0 , SM_3476 },
+{ 884, "DA 7 11",				1,	PDEA_NONE,		SM_X298, 0 , FRM_X298 },
+{ 885, "DA Heart 2",			1,	PDEA_NONE,		SM_X976, 0 , FRM_X976 },
+{ 886, "DA Full Glass",			1,	PDEA_NONE,		SM_2541, 0 , SM_2541 },
+{ 887, "DA Top/Btm 2Rows",		1,	PDEA_NONE,		SM_887, 0 , FRM_022 },
+
+//Avi Resort
+{ 888, "DA Crazy Arrow",		1,	PDEA_NONE,		SM_888, 0, FRM_X871 },
+{ 889, "DA Triple Stamp",		1,	PDEA_NONE,		SM_889, 0, FRM_889 },
+
+//Gem
+{ 890, "DA Turtle",				1,	PDEA_NONE,		SM_2719, 0, SM_2719 },
+{ 891, "DA Hourglass",			1,	PDEA_NONE,		SM_891, 0, SM_891 },
+{ 892, "DA Double L",			1,	PDEA_NONE,		SM_X770, 0, SM_X770 },
+{ 893, "DA Coffee Mug",			1,	PDEA_NONE,		SM_3237, 0, SM_3237 },
+{ 894, "DA Lg Crazy Kite",		1,	PDEA_ROTATING,	SM_894, 0, SM_894 },
+{ 895, "DA Lg Letter S",		1,	PDEA_NONE,		SM_895, 0, SM_895 },
+{ 896, "DA 7-11",				1,	PDEA_NONE,		SM_896, 0, SM_896 },
+{ 897, "DA Belt Buckle",		1,	PDEA_NONE,		SM_2581, 0, SM_2581 },
+{ 898, "DA Hang The Caller",	1,	PDEA_NONE,		SM_898, 0, SM_898 },
+
+// Potawatomi
+{ 899, "DA Kaboom",				1, PDEA_NONE, SM_899, 0, FRM_193 },
+
+

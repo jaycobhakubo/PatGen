@@ -1,0 +1,18 @@
+﻿  Performing Custom Build Tools
+   Assembling: D:\fortunet\gti-gametech\Tools\PatGen\Patfind.asm
+  Microsoft (R) Macro Assembler Version 10.00.40219.01
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+d:\fortunet\gti-gametech\libraries\cblib\d4inc.h(53): warning C4103: 'd:\fortunet\gti-gametech\libraries\cblib\d4inc.h' : alignment changed after including header, may be due to missing #pragma pack(pop)
+d:\fortunet\gti-gametech\libraries\cblib\d4inc.h(115): warning C4103: 'd:\fortunet\gti-gametech\libraries\cblib\d4inc.h' : alignment changed after including header, may be due to missing #pragma pack(pop)
+  Report.cpp
+  PatGen.cpp
+  Compat.cpp
+  Generating Code...
+  SpecialFlags.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(D:\fortunet\gti-gametech\Tools\PatGen\.\PatGen.exe) does not match the Linker's OutputFile property value (D:\fortunet\gti-gametech\Tools\PatGen\PatGenH.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(992,5): warning MSB8012: TargetName(PatGen) does not match the Linker's OutputFile property value (PatGenH). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1104: cannot open file '..\..\libraries\cblib\release\cblib.lib'

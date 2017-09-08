@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project version='7' encrypted='1'>
+	<steps type='0'>
+		<step action='Make VS 2008'>
+			<Attr type='11'>-1</Attr>
+			<Config>Fixed|Win32</Config>
+			<FileVer type='11'>-1</FileVer>
+			<Filename>%SRC_ROOT%\Tools\PatGen\PatGen.sln</Filename>
+			<Force type='3'>1</Force>
+			<name>Build Pattern Library (Fixed)</name>
+		</step>
+		<step action='Make VS 2008'>
+			<Attr type='11'>-1</Attr>
+			<Config>Handheld|Win32</Config>
+			<FileVer type='11'>-1</FileVer>
+			<Filename>%SRC_ROOT%\Tools\PatGen\PatGen.sln</Filename>
+			<Force type='3'>1</Force>
+			<name>Build Pattern Library (Handheld)</name>
+		</step>
+		<step action='Delete Folder'>
+			<Path>%BUILD_PATH%\Latest</Path>
+			<Recurse type='11'>-1</Recurse>
+			<name>Delete Latest Folder</name>
+		</step>
+		<step action='Copy Files'>
+			<Converted type='11'>-1</Converted>
+			<Delay>15</Delay>
+			<DestDir>%BUILD_PATH%\Latest</DestDir>
+			<Ext><![CDATA[patlib.bin
+patlibh.bin
+games.dbf
+games.cdx
+c.out
+report.txt
+reporth.txt
+Pattern_Compatibility_ Summary.htm
+NOTES.TXT]]></Ext>
+			<Incremental type='11'>0</Incremental>
+			<LogCopied type='11'>-1</LogCopied>
+			<ReadOnly type='11'>-1</ReadOnly>
+			<Retries>10</Retries>
+			<SourceDir>%SRC_ROOT%\Tools\PatGen</SourceDir>
+			<TBD type='11'>-1</TBD>
+			<name>Copy Files To Latest Folder</name>
+		</step>
+		<step action='Run Program'>
+			<command>%PACKAGER% "%SRC_ROOT%\Tools\PatGen\Patlib.gtp" -generate</command>
+			<name>Run Packager</name>
+			<outputfrom type='3'>1</outputfrom>
+			<startin>%SRC_ROOT%\Tools\PatGen</startin>
+		</step>
+		<step action='Read File'>
+			<FailNoMatch type='11'>-1</FailNoMatch>
+			<FileIn>%SRC_ROOT%\Tools\PatGen\NOTES.TXT</FileIn>
+			<Find>Version (.+)</Find>
+			<Macro>PAT_LIB_VER</Macro>
+			<Match type='3'>1</Match>
+			<NoModS type='11'>-1</NoModS>
+			<name>Read Version</name>
+		</step>
+		<step action='Rename Files'>
+			<Dir>%SRC_ROOT%\Tools\PatGen</Dir>
+			<Ext>*.gtipackage</Ext>
+			<Find>^(.*)\.gtipackage$</Find>
+			<FirstOnly type='11'>-1</FirstOnly>
+			<HideOn type='11'>-1</HideOn>
+			<LogRenamed type='11'>-1</LogRenamed>
+			<Replace>\1%PAT_LIB_VER%.gtipackage</Replace>
+			<SysOn type='11'>-1</SysOn>
+			<name>Rename Package</name>
+		</step>
+		<step action='Copy Files'>
+			<Converted type='11'>-1</Converted>
+			<Delay>15</Delay>
+			<DestDir>%BUILD_PATH%\Latest</DestDir>
+			<Ext>*.gtipackage</Ext>
+			<Incremental type='11'>0</Incremental>
+			<LogCopied type='11'>-1</LogCopied>
+			<Move type='11'>-1</Move>
+			<ReadOnly type='11'>-1</ReadOnly>
+			<Retries>10</Retries>
+			<SourceDir>%SRC_ROOT%\Tools\PatGen</SourceDir>
+			<TBD type='11'>-1</TBD>
+			<name>Move Package To Latest</name>
+		</step>
+		<step action='Copy Files'>
+			<Converted type='11'>-1</Converted>
+			<Delay>15</Delay>
+			<DestDir>%BUILD_PATH%\%PAT_LIB_VER%</DestDir>
+			<Incremental type='11'>0</Incremental>
+			<LogCopied type='11'>-1</LogCopied>
+			<ReadOnly type='11'>-1</ReadOnly>
+			<Recurse type='11'>-1</Recurse>
+			<Retries>10</Retries>
+			<SourceDir>%BUILD_PATH%\Latest</SourceDir>
+			<TBD type='11'>-1</TBD>
+			<name>Copy Files To Version Folder</name>
+		</step></steps>
+	<steps type='2'>
+		<step action='Send Mail'>
+			<From>AutoBuild@gtiemail.com</From>
+			<HTML type='11'>-1</HTML>
+			<Message><![CDATA[An unexpected error occured while building the project: <br /> <br />
+
+<b>Failstep Name:</b> <br />
+%FAILSTEP_NAME%<br /> <br />
+
+<b>Failstep Output:</b> <br />
+%FAILSTEP_OUTPUT%<br /> <br />
+
+<b>Failstep Status:</b> <br />
+%FAILSTEP_STATUS%<br /> <br />
+
+<b>Previous Step:</b> <br />
+%LASTSTEP_NAME%<br /> <br />]]></Message>
+			<Password encrypted='1'>TM3DPOg8beGBari4q6E=</Password>
+			<Priority type='3'>1</Priority>
+			<Server>OCEANUS.GameTech-Reno.com</Server>
+			<Subject>Build Machine: Error Occured</Subject>
+			<Timeout>30</Timeout>
+			<To>%TO_EMAIL%</To>
+			<UserName>AutoBuild</UserName>
+			<name>Send Error E-Mail</name>
+		</step></steps>
+</project>

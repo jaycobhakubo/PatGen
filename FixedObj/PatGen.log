@@ -1,0 +1,18 @@
+﻿  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 10.00.40219.01
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: D:\fortunet\gti-gametech\Tools\PatGen\Patfind.asm
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+d:\fortunet\gti-gametech\libraries\cblib\d4inc.h(53): warning C4103: 'd:\fortunet\gti-gametech\libraries\cblib\d4inc.h' : alignment changed after including header, may be due to missing #pragma pack(pop)
+d:\fortunet\gti-gametech\libraries\cblib\d4inc.h(115): warning C4103: 'd:\fortunet\gti-gametech\libraries\cblib\d4inc.h' : alignment changed after including header, may be due to missing #pragma pack(pop)
+  Report.cpp
+  PatGen.cpp
+  Compat.cpp
+  Generating Code...
+  SpecialFlags.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+cblib.lib(S4str.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Compat.obj
+cblib.lib(D4data_p.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Compat.obj
+./PatGen.exe : fatal error LNK1319: 2 mismatches detected

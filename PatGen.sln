@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PatGen", "PatGen.vcproj", "{2D7EA935-3543-43C9-BEC6-B26A29BE07E2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F16E3F08-045A-4A85-A435-36741681D3CC} = {F16E3F08-045A-4A85-A435-36741681D3CC}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CBLIB", "..\..\Libraries\CBLib\cblib.vcproj", "{F16E3F08-045A-4A85-A435-36741681D3CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Fixed|Win32 = Fixed|Win32
+		Handheld|Win32 = Handheld|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D7EA935-3543-43C9-BEC6-B26A29BE07E2}.Fixed|Win32.ActiveCfg = Fixed|Win32
+		{2D7EA935-3543-43C9-BEC6-B26A29BE07E2}.Fixed|Win32.Build.0 = Fixed|Win32
+		{2D7EA935-3543-43C9-BEC6-B26A29BE07E2}.Handheld|Win32.ActiveCfg = Handheld|Win32
+		{2D7EA935-3543-43C9-BEC6-B26A29BE07E2}.Handheld|Win32.Build.0 = Handheld|Win32
+		{F16E3F08-045A-4A85-A435-36741681D3CC}.Fixed|Win32.ActiveCfg = Release|Win32
+		{F16E3F08-045A-4A85-A435-36741681D3CC}.Fixed|Win32.Build.0 = Release|Win32
+		{F16E3F08-045A-4A85-A435-36741681D3CC}.Handheld|Win32.ActiveCfg = Release|Win32
+		{F16E3F08-045A-4A85-A435-36741681D3CC}.Handheld|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

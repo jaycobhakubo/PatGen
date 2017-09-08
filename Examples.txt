@@ -1,0 +1,65 @@
+Example Patterns
+
+1. Use of PDEA_ORLIST
+
+Hardway or Double Postage Stamp
+
+PATDEF:
+
+{ -853, "Hardway/Dbl Pstamp", 1, PDEA_ORLIST, (BYTE *)SM_X853, 0 , FRM_X853 },
+
+ORLIST:
+
+ORLIST SM_X853[] = {
+ { 0, hardway, NULL, NULL },
+ { 0, postage_stamp, postage_stamp, NULL },
+ { -1, NULL, NULL, NULL},
+};
+
+Note:
+
+'hardway' and 'postage_stamp' are pointers to BYTE arrays containing masks.
+
+Double Postage Stamp included using 'postage_stamp' masks twice in the ORLIST.
+
+2. Use of PDEA_ANDLIST
+
+Diagonal and Postage Stamp
+
+PATDEF:
+
+{ -852, "Diag & Pstamp", 1, PDEA_ANDEACHLIST, (BYTE *)SM_X852, 0, FRM_X852 }, 
+
+MULTILIST:
+
+MULTILIST SM_X852[] = {
+ { corner_stamp, 1 } ,
+ { diagonal, 1 } ,
+ { 0, 0 } ,
+};
+
+Note:
+
+'corner_stamp' contains 4 masks. 'diagonal' contains two masks.
+
+3. Simple PDEA_NONE
+
+PATDEF:
+
+{ -860, "Witch's Hat", 1, PDEA_NONE, SM_X860, 0, FRM_X860 }, 
+
+BYTE SM_X860[] = {
+ 0,0,1,0,0,
+ 0,1,1,1,0,
+ 0,1,1,1,0,
+ 0,1,1,1,0,
+ 1,1,1,1,1,
+100 };
+
+BYTE FRM_X860[] = {
+ 0,0,1,0,0,
+ 0,1,1,1,0,
+ 0,1,1,1,0,
+ 0,1,1,1,0,
+ 1,1,1,1,1,
+100 };

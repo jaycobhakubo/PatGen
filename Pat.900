@@ -1,0 +1,140 @@
+//
+// PDEA_OREACHLIST && PDEA_NOOVERLAP - 1 mask list on each card or 2nd mask list on 1 card
+// PDEA_OREACHLIST	- need to use each masklist of a multilist exactly once, can be on same card, but 
+//                    doesn't check if previous masklist already used
+// PDEA_REQEACHLIST - need to use each masklist of a multilist exactly once, but on different cards 
+// PDEA_MASKLIST	- up to multibingo # of cards use the same bytelist (bingo on separate cards)
+// PDEA_UNIQUEMASKS - each card bingoes on the respective mask in a 3-mask bytelist.  multibingos must be 3.
+// PDEA_EACHLIST	- each card has its own mask list listed in a multilist
+// PDEA_BIGLIST		- serialized list of 3-mask sets
+//
+// 3-On's
+{ 901, G901,1,PDEA_MASKLIST, coverall, 1 , FRM_901 }, 
+{ 902, G902,1,PDEA_MASKLIST, awsl, 3 , FRM_902 }, 
+{ 903, G903,1,PDEA_MASKLIST, coverall, 2 , FRM_903 }, 
+{ 904, G904,1,PDEA_MASKLIST, awsl, 3 , FRM_904 }, 
+{ 905, G905,3,PDEA_MASKLIST, awsl, 3 , FRM_905 }, 
+{ 906, G906,1,PDEA_EACHLIST, (BYTE *)SM_906, 3 , FRM_906 }, 
+{ 907, G907,1,PDEA_MASKLIST, awsl, 3 , FRM_907 }, 
+{ 908, G908,1,PDEA_MASKLIST, smkitenr, 2 , FRM_908 }, 
+{ 909, G909,1,PDEA_MASKLIST, awsl4corn, 3 , FRM_909 }, 
+{ 910, G910,1,PDEA_EACHLIST, (BYTE *)SM_910, 3 , FRM_910 }, 
+{ 911, G911,2,PDEA_MASKLIST, awsl4corn, 3 , FRM_911 }, 
+{ 912, G912,1,PDEA_EACHLIST, (BYTE *)SM_912, 3 , FRM_912 }, 
+{ 913,"2 Card W/Stamp",1,PDEA_MASKLIST, any_stamp,2, FRM_913 },
+{ 914,"U.S.A.",1,PDEA_UNIQUEMASKS, usa,3, FRM_914 },
+{ 915,"W.I.N.",1,PDEA_UNIQUEMASKS, win_lit,3, FRM_915 },
+{ 916, G916,1,PDEA_UNIQUEMASKS, wxn_lit, 3 , FRM_916 }, 
+{ 917, G917,1,PDEA_UNIQUEMASKS, xix_lit, 3 , FRM_917 }, 
+{ 918, G918,1,PDEA_BIGLIST, SM_918, 0 , FRM_918 }, 
+{ 919, G919,1,PDEA_MASKLIST, float6pack, 2 , FRM_919 }, 
+{ 920, G920,1,PDEA_MASKLIST, awsl, 3 , FRM_920 }, 
+{ 921, G921,1,PDEA_MASKLIST, lucky7, 1 , FRM_921 }, 
+{ 922, G922,1,PDEA_EACHLIST, (BYTE *)SM_922, 3 , FRM_922 }, 
+{ 923, G923,1,PDEA_EACHLIST, (BYTE *)SM_923, 3 , FRM_923 }, 
+{ 924, G924,1,PDEA_EACHLIST, (BYTE *)SM_924, 3 , FRM_924 }, 
+{ 925, G925,1,PDEA_EACHLIST, (BYTE *)SM_925, 3 , FRM_925 }, 
+{ 926, G926,1,PDEA_EACHLIST, (BYTE *)SM_926, 3 , FRM_926 }, 
+{ 927,"3CD Corner Stamp", 1, PDEA_MASKLIST, corner_stamp, 3, corner_stamp },
+{ 928,"2CD Hardway", 1, PDEA_MASKLIST, hardway, 2, hardway},
+{ 929, "3 Bingos",1,PDEA_MASKLIST, SM_929, 3 , FRM_929 }, 
+{ 930, "Line or Postage",1,PDEA_MASKLIST, SM_930, 3 , FRM_930 }, 
+{ 931, "Dbl Dbl Dbl",2,PDEA_MASKLIST, awsl, 3 , FRM_931 }, 
+{ 932, "6-4-9 Anyway",1,PDEA_REQEACHLIST, (BYTE *)SM_932, 3 , FRM_932 }, 
+{ 933, "1-2-3",1,PDEA_EACHLIST, (BYTE *)SM_933, 3 , FRM_933 }, 
+{ 934, "1-2-3 Anyway",1,PDEA_REQEACHLIST, (BYTE *)SM_934, 3 , FRM_934 }, 
+{ 935, "In/Out/Cover",1,PDEA_EACHLIST, (BYTE *)SM_935, 3 , FRM_935 }, 
+{ 936, "6-4-9 Proper",1,PDEA_EACHLIST, (BYTE *)SM_936, 3 , FRM_936 }, 
+{ 937, "3-3-3",1,PDEA_EACHLIST, (BYTE *)SM_937, 3 , FRM_937 }, 
+{ 938, "8-10-12",1,PDEA_EACHLIST, (BYTE *)SM_938, 3 , FRM_938 }, 
+{ 939, "Hard/WStamp/6Pk",1,PDEA_EACHLIST, (BYTE *)SM_939, 3 , FRM_939 }, 
+{ 940, "SmFrm/LgFrm/Cover",1,PDEA_EACHLIST, (BYTE *)SM_940, 3 , FRM_940 }, 
+{ 941, "4-5-6 Crazy",1,PDEA_REQEACHLIST, (BYTE *)SM_941, 3 , FRM_941 }, 
+{ 942, "1-2-3 Stamps",1,PDEA_EACHLIST, (BYTE *)SM_942, 3 , FRM_942 }, 
+{ 943, "3-3-3",1,PDEA_EACHLIST, (BYTE *)SM_943, 3 , FRM_943 }, 
+{ 944, "3 Layer Cake",1,PDEA_MASKLIST, SM_944,1, FRM_944 },
+{ 945, "3Cd Czy Chevron",1,PDEA_MASKLIST, SM_945, 3 , FRM_945 }, 
+
+// Clovis 11/01/2011
+{ 946, "5 - 6 - 7",1,PDEA_EACHLIST, (BYTE *)SM_946, 3 , FRM_946 }, 
+{ 947, "2CD Tpl AWSL/OC", 3, PDEA_MASKLIST, awsl4corn, 2 , FRM_947 }, 
+
+// Colusa 2015.05.29
+{ 948, "1CD 8 Pack",1,PDEA_MASKLIST, packany8, 1 , FRM_948 }, 
+
+{ 950, "3 Card 100",1,PDEA_BIGLIST, (BYTE *)SM_950, 3 , FRM_950 }, 
+{ 951, "5 around corn (2CDS)",1,PDEA_MASKLIST, SM_238, 2 , FRM_238 }, 
+{ 952, "3CD Wild Stamp",1,PDEA_MASKLIST, any_stamp, 3 , FRM_952 }, 
+{ 953, "3CD Reg/OC/PStamp",1,PDEA_MASKLIST, awsl_4C_post, 3 , FRM_953 }, 
+{ 954, "Sml X 5 places (2CDS)",1,PDEA_MASKLIST, SM_X741, 2 , SM_X741 }, 
+//{ 955, "3CD Wld6Pack",1,PDEA_MASKLIST, float6pack, 3 , FRM_955 }, 
+{ 955, "3CD Wld6Pack",1,PDEA_MASKLIST, float6packhardfirst, 3 , FRM_955 }, 
+{ 956, "Vert+Horiz+Diag",1,PDEA_OREACHLIST, (BYTE *)SM_956, 3 , FRM_956 }, 
+{ 957, "3CD 9 Pack",1,PDEA_MASKLIST, packany9, 3 , FRM_957 }, 
+{ 958, "6Pack+Reg",1,PDEA_REQEACHLIST, (BYTE *)SM_958, 2 , FRM_958 }, 
+//{ 959, "LgDmd/LgFrm/Cover",1,PDEA_UNIQUEMASKS, SM_959,3, FRM_959 },
+{ 960, "3CD Line on 2 Cds",1,PDEA_MASKLIST, awsl, 2 , FRM_904 }, 
+{ 961, "3CD Tpl or Tpl",1,PDEA_OREACHLIST | PDEA_NOOVERLAP, (BYTE *)SM_961, 3 , FRM_961 }, 
+{ 962, "3CD Y2K",1,PDEA_UNIQUEMASKS, SM_962,3, FRM_962 },
+{ 963, "3Cd Double A",1,PDEA_MASKLIST, SM_963, 2 , SM_963 }, 
+{ 964, "3Cd 5 Arnd Crn",1,PDEA_MASKLIST, SM_238, 3 , FRM_238 }, 
+{ 965, "3Cd Pstamp Trio",1,PDEA_MASKLIST, NFany_stamp, 3 , FRM_965 }, 
+{ 966, "3CD 4TH.",1,PDEA_UNIQUEMASKS, SM_966,3, FRM_966 },
+{ 967, "3CD Triple 7",1,PDEA_MASKLIST, lucky7, 3 , FRM_921 }, 
+{ 968, "3CD Rg/Post/IOC/Dia",1,PDEA_MASKLIST, rg_post_ioc_dm, 3 , FRM_341 }, 
+{ 969, "3CD 2 PStamps",2,PDEA_MASKLIST, corner_stamp, 2 , FRM_008 }, 
+{ 970, "3CD 3 Diagonals",2,PDEA_MASKLIST, diagonal, 3 , FRM_037 }, 
+{ 971, "3CD 8+6 Packs",1,PDEA_MASKLIST, SM_971, 3 , FRM_971 }, 
+{ 972, "4-5-6(2)",1,PDEA_EACHLIST, (BYTE *)SM_972, 3 , FRM_972 }, 
+{ 973, "LgFrame on 2",1,PDEA_MASKLIST, outside_frame, 2 , outside_frame }, 
+{ 974, "Chev/Diag on 3",1,PDEA_MASKLIST, SM_974, 3 , FRM_974 }, 
+{ 975, "3CD awsl/OC",1,PDEA_MASKLIST, awsl4corn, 3 , FRM_975 }, 
+{ 976, "Letter X-2on",1,PDEA_UNIQUEMASKS, SM_976,3, FRM_976 },
+{ 977, "3CD 7Way",1,PDEA_MASKLIST, bingo7ways, 3, FRM_X050 },
+{ 978, "FYA",1,PDEA_UNIQUEMASKS, SM_978, 3, FRM_978 },
+{ 979, "TKD",1,PDEA_UNIQUEMASKS, SM_979, 3, FRM_979 },
+{ 980, "4 - 6 - 9", 1,PDEA_EACHLIST, (BYTE *)SM_980, 3 , FRM_980 }, 
+//{ 981, "U.S.A.", 1, PDEA_EACHLIST, (BYTE*)SM_981, 1, FRM_981},
+{ 981, "3 of 6", 1, PDEA_EACHLIST, (BYTE*)SM_981, 3, FRM_981},
+{ 982,"U.S.A.(2)",1,PDEA_UNIQUEMASKS, SM_982,3, FRM_982 },
+//{ 982,"U.S.A.(2)",1,PDEA_EACHLIST, (BYTE*)SM_982,3, FRM_982 },
+{ 983, "3CD Vert/Hor/Dia",1,PDEA_REQEACHLIST, (BYTE *)SM_956, 3 , FRM_983 }, 
+{ 984,"U.S.A.(3)",1,PDEA_BIGLIST, SM_984,3, SM_984 },
+{ 985, "3CD 4Crn",1,PDEA_MASKLIST, corners, 3, corners },
+{ 986, "3CD CornerStamps",1,PDEA_MASKLIST, corner_stamp, 3, corner_stamp },
+{ 987, "3CD 3 Crazy 7s",1,PDEA_MASKLIST, SM_1008, 3, SM_1008 },
+
+// American Legion Post 68
+{ 988, "MOM",				1,PDEA_UNIQUEMASKS, SM_988, 3 , FRM_988 }, 
+{ 989, "DAD",				1,PDEA_UNIQUEMASKS, SM_989, 3 , FRM_989 },
+{ 990, "2 Card Double",		1,PDEA_MASKLIST,	SM_990,	2,	FRM_2893 }, 
+
+// Soboba Casino
+{ 991, "BOO",				1,PDEA_UNIQUEMASKS, SM_991, 3 , SM_991 },
+{ 992, "Thanx",				1,PDEA_UNIQUEMASKS, SM_992, 3 , SM_992 },
+
+// Soboba Casino
+{ 993, "Ho Ho Ho",			1,PDEA_UNIQUEMASKS, SM_993, 3 , SM_993 },
+{ 994, "2009",				1,PDEA_UNIQUEMASKS, SM_994, 3 , SM_994 },
+{ 995, "N..F..L",			1,PDEA_UNIQUEMASKS, SM_995, 3 , FRM_995 },
+{ 996, "L..U..V",			1,PDEA_UNIQUEMASKS, SM_996, 3 , FRM_996 },
+
+// 7 Cedars Casino
+{ 997, "2CD Diag + 1 Corner",	1,PDEA_MASKLIST, SM_997, 2 , FRM_997 },
+{ 998, "2CD Reg/4 Corner",		1,PDEA_MASKLIST, awsl4corn, 2 , FRM_998 },
+
+{ 999, "2CD Diagonal",			1,PDEA_MASKLIST, SM_999, 2, FRM_999 },
+
+
+////////////////////////////////////////
+// 9 ON
+////////////////////////////////////////
+{ 1001, "9CD 3 Lines",1,PDEA_MASKLIST, awsl, 3 , FRM_902 }, 
+{ 1002, "9CD 2 6 Packs",1,PDEA_MASKLIST, float6pack, 2 , FRM_010 }, 
+{ 1003, "9CD 4-5-6",1,PDEA_REQEACHLIST, (BYTE *)SM_1003, 3 , FRM_1003 }, 
+{ 1004, "9CD 3 Stamps",1,PDEA_MASKLIST, NFany_stamp, 3 , FRM_913 }, 
+{ 1005, "9CD Horz/Vert/Diag",1,PDEA_REQEACHLIST, (BYTE *)SM_1005, 3 , FRM_1005 }, 
+{ 1006, "9CD 3 Lucky 7s",1,PDEA_MASKLIST, lucky7, 3, FRM_921 },
+{ 1007, "9CD 3 Line/OC",1,PDEA_MASKLIST, awsl4corn, 3 , corners }, 
+{ 1008, "9CD 3 Crazy 7s",1,PDEA_MASKLIST, SM_1008, 3 , SM_1008 }, 
+{ 1009, "9CD 3 Xs",1,PDEA_MASKLIST, letterx, 3, letterx },
