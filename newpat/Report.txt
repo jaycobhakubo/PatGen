@@ -76,7 +76,7 @@
 
      NAME             OVERLAP  NON-OVERLAP
      =====================================
-     NORMAL              2440        18
+     NORMAL              2451        18
      ROTATING             156         0
      UNIQUEMASKS            5         0
      MASKLIST               0         0
@@ -95,7 +95,7 @@
      COUNTORLIST            0         2
      AWAYOFF                3         0
      ======================================
-                         2983        86 (TOTAL=3069)
+                         2994        86 (TOTAL=3080)
 
      1-ON NORMAL (OVERLAP OK)
      ========================
@@ -1486,6 +1486,17 @@
             3757  Lg Diamond Rng             Hits=1   MultiBingo=0   NumMasks=1
             3758  Baby Carriage              Hits=1   MultiBingo=0   NumMasks=1
             3759  Any 1 Z Leg/OC             Hits=1   MultiBingo=0   NumMasks=4
+            3760  Tool Box                   Hits=1   MultiBingo=0   NumMasks=1
+            3761  Dragon Fly                 Hits=1   MultiBingo=0   NumMasks=1
+            3762  Volleyball                 Hits=1   MultiBingo=0   NumMasks=5
+            3763  Glass Slipper              Hits=1   MultiBingo=0   NumMasks=1
+            3764  Hdlss Hrsman               Hits=1   MultiBingo=0   NumMasks=1
+            3765  Prince And Pea             Hits=1   MultiBingo=0   NumMasks=1
+            3766  Slpng Bty Cstle            Hits=1   MultiBingo=0   NumMasks=1
+            3767  Swrd in Stone              Hits=1   MultiBingo=0   NumMasks=1
+            3768  Witches Broom              Hits=1   MultiBingo=0   NumMasks=1
+            3769  3 Lttle Pgs                Hits=1   MultiBingo=0   NumMasks=1
+            3770  > Than < Than              Hits=1   MultiBingo=0   NumMasks=2
             4501  RainBow AWSL               Hits=1   MultiBingo=0   NumMasks=12
             4600  Eyes,Hands&Feet            Hits=1   MultiBingo=0   NumMasks=1
             4601  Full Body                  Hits=1   MultiBingo=0   NumMasks=1
@@ -3678,7 +3689,7 @@
      PLUSCOUNT              0         0
      OREACHLIST             0         0
      REQEACHLIST            0         0
-     BIGLIST                4         0
+     BIGLIST                5         0
      SPECIALCASE            0         0
      ORLIST                 0         0
      ANDLIST                0         0
@@ -3686,7 +3697,7 @@
      COUNTORLIST            0         0
      AWAYOFF                0         0
      ======================================
-                           91         1 (TOTAL=92)
+                           92         1 (TOTAL=93)
 
      6-ON NORMAL (OVERLAP OK)
      ========================
@@ -3844,6 +3855,7 @@
             628   Super B&O (222)            Hits=1   MultiBingo=0   NumMasks=54
             677   Giant Horizontal           Hits=1   MultiBingo=0   NumMasks=120
             689   3Top & 3Bot                Hits=1   MultiBingo=0   NumMasks=6
+            695   Super B&O                  Hits=1   MultiBingo=0   NumMasks=54
 
  ____________________________________________________________________________
 |                                                                            |
@@ -4083,14 +4095,14 @@
 
                 Total  BDG: 3
                 Total  FSM: 0
-                Total 1-ON: 3069
+                Total 1-ON: 3080
                 Total 3-ON: 97
                 Total 4-ON: 35
-                Total 6-ON: 92
+                Total 6-ON: 93
                 Total 9-ON: 9
                 Total   DA: 98
           -----------------------
-            Total patterns: 3418
+            Total patterns: 3430
 
 
      PATTERN STYLE SUMMARY
@@ -4098,7 +4110,7 @@
 
           NAME             OVERLAP  NON-OVERLAP
           --------------------------------------
-          NORMAL              2533        19
+          NORMAL              2544        19
           ROTATING             163         0
           UNIQUEMASKS           26         0
           MASKLIST             167         1
@@ -4109,7 +4121,7 @@
           PLUSCOUNT             14         0
           OREACHLIST             2         1
           REQEACHLIST           11         0
-          BIGLIST                7         0
+          BIGLIST                8         0
           SPECIALCASE            0         0
           ORLIST               192         0
           ANDLIST                0         0
@@ -4117,7 +4129,7 @@
           COUNTORLIST            0         2
           AWAYOFF                3         0
           --------------------------------------
-                              3313        90 (TOTAL=3403)
+                              3325        90 (TOTAL=3415)
           --------------------------------------
 
 

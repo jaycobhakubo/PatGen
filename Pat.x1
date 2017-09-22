@@ -2712,6 +2712,26 @@
 //20170522
 { 3759, "Any 1 Z Leg/OC",	1,	PDEA_NONE,		SM_3759 ,			0, FRM_X615},
 
+
+//20170522
+{ 3760, "Tool Box",	1,	PDEA_NONE,		SM_3760 ,			0, SM_3760},
+
+//20170622
+{ 3761, "Dragon Fly",	1,	PDEA_NONE,		SM_3761 ,		0, SM_3761},
+{ 3762, "Volleyball",	1,	PDEA_NONE,		SM_3762 ,		0, FRM_3762},
+
+//20170908 (Tropicana)
+{ 3763, "Glass Slipper",		1,	PDEA_NONE,		SM_3763 ,		0, SM_3763},
+{ 3764, "Hdlss Hrsman",	1,	PDEA_NONE,		SM_3764 ,		0, SM_3764},
+{ 3765, "Prince And Pea",		1,	PDEA_NONE,		SM_3765 ,		0, SM_3765},
+{ 3766, "Slpng Bty Cstle",		1,	PDEA_NONE,		SM_3766 ,		0, SM_3766},
+{ 3767, "Swrd in Stone",		1,	PDEA_NONE,		SM_3767 ,		0, SM_3767},
+{ 3768, "Witches Broom",		1,	PDEA_NONE,		SM_3768 ,		0, SM_3768},
+{ 3769, "3 Lttle Pgs",			1,	PDEA_NONE,		SM_3769 ,		0, SM_3769},
+
+//20170922
+{ 3770, "> Than < Than ",			1,	PDEA_NONE,		SM_3770 ,		0, SM_3770},
+
 /////////////////////////////////////////////////////////
 // Games with Special Bitmap
 /////////////////////////////////////////////////////////

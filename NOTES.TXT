@@ -1,11 +1,13 @@
-Version 20170522
+Version 20170922
 ======================================
-Request by: Michael Pierce/Boris
-Site: Bloomington KC
-Pattern #   Pattern Name        		
+Request by: John Winterroth
+Site: Tropicana     		
 -----------------------------------------------
+Pattern #   Pattern Name  
 
-3759,	"Any 1Z Leg/OC",	
+3770		"> Than < Than "	
+
+	
 
 
 
