@@ -103,7 +103,3 @@
 
 // Table Mountain
 //{ 694, "4-5-6 Crazy",1,PDEA_REQEACHLIST, (BYTE *)SM_941, 3 , FRM_941 }, 
-
-{695, "Super B&O",1,PDEA_BIGLIST, SM_695, 0 , FRM_695 }, 
-
-

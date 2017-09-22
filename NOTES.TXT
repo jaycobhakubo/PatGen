@@ -1,12 +1,11 @@
-Version 20170905
+Version 20170522
 ======================================
-Request by: Randell Kelley
-Site: Bingo-Bingo
+Request by: Michael Pierce/Boris
+Site: Bloomington KC
 Pattern #   Pattern Name        		
 -----------------------------------------------
 
-695,	"Super B&O",	
-	
+3759,	"Any 1Z Leg/OC",	
 
 
 

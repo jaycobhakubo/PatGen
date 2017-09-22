@@ -784,7 +784,7 @@ anyway1052 len = 747
 p2934 len = 789
 
 Building library: PATLIBH.bin
-  Total patterns: 3422
+  Total patterns: 3429
 --- 1: Any Line
 Num = 12, Hits = 1, Attribs = 0, MultiBingo = 0 - 
  Masks - 
@@ -328269,6 +328269,90 @@ Num = 5, Hits = 1, Attribs = 0, MultiBingo = 0 -
 +++++
 +++++
 ++1+1
+1+1+1
+1+1+1
+
+.
+
+
+--- 3763: Glass Slipper
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1++++
+11+++
+111++
+1+111
+1+111
+
+.
+
+
+--- 3764: Hdlss Hrsman
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
+11+11
+++1++
++1+1+
+1+++1
+
+.
+
+
+--- 3765: Prince And Pea
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+11111
++++++
++++++
++++++
+++1++
+
+.
+
+
+--- 3766: Slpng Bty Cstle
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
+1+++1
+11111
++111+
++1+1+
+
+.
+
+
+--- 3767: Swrd in Stone
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1+1++
++1+++
+1+1++
++++1+
+++++1
+
+.
+
+
+--- 3768: Witches Broom
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++++1
++++1+
+111++
++11++
+1+1++
+
+.
+
+
+--- 3769: 3 Lttle Pgs
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
++++++
+1+1+1
 1+1+1
 1+1+1
 
