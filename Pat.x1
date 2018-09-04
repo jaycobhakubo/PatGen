@@ -2014,7 +2014,7 @@
 {  3369, "Top 3 Bot 4",1,PDEA_NONE, SM_3369, 0 , SM_3369 }, 
 {  3370, "Fixed 4-6-8",1,PDEA_NONE, SM_3370, 0 , SM_3370 }, 
 {  3371, "Line/Stamp/6Pack",1,PDEA_NONE, line_any_stamp_6pack, 0, line_any_stamp_6pack },
-{  3372, "Crazy Umbrella",1,PDEA_NONE, SM_3772, 0, SM_3772 },
+{  3372, "Crazy Umbrella",1,PDEA_NONE, SM_3372, 0, SM_3372 },
 {  3373, "Hd6Pack+2OC NOOV",1,PDEA_ORLIST, (BYTE*)SM_3373, 0 , FRM_3373 }, 
 {  3374, "Number 9 (4)",1,PDEA_NONE, SM_3374, 0, SM_3374 }, 
 {  3375, "Raindrop",1,PDEA_NONE, SM_3375, 0, SM_3375 }, 
@@ -2712,7 +2712,6 @@
 //20170522
 { 3759, "Any 1 Z Leg/OC",	1,	PDEA_NONE,		SM_3759 ,			0, FRM_X615},
 
-
 //20170522
 { 3760, "Tool Box",	1,	PDEA_NONE,		SM_3760 ,			0, SM_3760},
 
@@ -2732,7 +2731,57 @@
 //20170922
 { 3770, "> Than < Than ",			1,	PDEA_NONE,		SM_3770 ,		0, SM_3770},
 
-/////////////////////////////////////////////////////////
+//20171016 - Suncoast
+{3771, "13 Spot",		1,	PDEA_COUNT | PDEA_USEFREE,	SM_X1066,	13, FRM_3771},
+{3772, "TrickTreat Bag",	1,	PDEA_NONE,				SM_3772 ,	0,	SM_3772},
+{3773, "31",	1,	PDEA_NONE,				SM_3773 ,	0,	SM_3773},
+
+//20171030 (Gold Coast/Stations)
+{3774, "Number 18",		1,	PDEA_NONE,				SM_3774,	0,	SM_3774},
+{3775, "Elephant",		1,	PDEA_NONE,				SM_3775,	0,	SM_3775},
+{3776, "Happy Face",		1,	PDEA_NONE,			SM_3776,	0,	SM_3776},
+
+//20171108 (Tropicana)
+{ 3777, "Peapod",				1,	PDEA_NONE,		SM_3777 ,		0, SM_3777},
+{ 3778, "Turkey Tracks",		1,	PDEA_NONE,		SM_3778 ,		0, FRM_3778},
+{ 3779, "Spoon",				1,	PDEA_NONE,		SM_3779 ,		0, SM_3779},
+{ 3780, "Haystack",				1,	PDEA_NONE,		SM_3780 ,		0, SM_3780},
+{ 3781, "Mug (Hot Toddy)",		1,	PDEA_NONE,		SM_3781 ,		0, SM_3781},
+{ 3782, "Salt and Pepper",		1,	PDEA_NONE,		SM_3782 ,		0, SM_3782},
+
+//20171201
+{ 3783, "Candy Cane",		1,	PDEA_NONE,		SM_3783 ,		0, SM_3783},
+
+//20171201
+{ 3784, "Holiday Tree",		1,	PDEA_NONE,		SM_3784 ,		0, SM_3784},
+{ 3785, "Bobsled",			1,	PDEA_NONE,		SM_3785 ,		0, SM_3785},
+{ 3786, "Three Candles",	1,	PDEA_NONE,		SM_3786 ,		0, SM_3786},
+
+//20171211(Paradise)
+{ 3787, "Nw Yrs Clck",		1,	PDEA_NONE,		SM_3787 ,		0, FRM_3787},
+
+//20171030 (Tropicana)
+{3788, "Hound Dog",		1,	PDEA_NONE,			SM_3788,	0,	SM_3788},
+{3789, "Splish Splash",	1,	PDEA_NONE,			SM_3789,	0,	SM_3789},
+{3790, "The Twist",		1,	PDEA_NONE,			SM_3790,	0,	SM_3790},
+
+//20171030 (Tropicana)
+{3791, "Score 3",		1,	PDEA_NONE,			SM_3791,	0,	SM_3791},
+{3792, "SmDia+4Corners",1,	PDEA_NONE,			SM_3792,	0,	SM_3792},
+
+{3793, "Love Letter",1,	PDEA_NONE,			SM_3793,	0,	SM_3793},
+{3794, "Sealed w/ a Kiss",1,	PDEA_NONE,	SM_3794,	0,	SM_3794},
+
+// 2018.03.30 (Fire Rock Request)
+{3795, "Joker",1,	PDEA_NONE,	SM_3795,	0,	SM_3795},
+
+// 2018.04.27 (Fantasy Springs request)
+{3796, "Crazy Arrow(2)", 1, PDEA_ROTATING, SM_3796, 0, SM_3796}, 
+
+// 2018.08.29 (Eldorado request)
+{3797, "Hard + Hard6", 1, PDEA_ANDEACHLIST, (BYTE *)SM_3797, 2, FRM_3797}, 
+
+//////////////////////////////////////////////////
 // Games with Special Bitmap
 /////////////////////////////////////////////////////////
 {  4600, "Eyes,Hands&Feet",1,PDEA_NONE, SM_3403, 0, SM_3403},

@@ -76,13 +76,13 @@
 
      NAME             OVERLAP  NON-OVERLAP
      =====================================
-     NORMAL              2451        18
-     ROTATING             156         0
+     NORMAL              2475        18
+     ROTATING             157         0
      UNIQUEMASKS            5         0
      MASKLIST               0         0
      EACHLIST               6         0
-     COUNT                  0        28
-     ANDEACHLIST           79        38
+     COUNT                  0        29
+     ANDEACHLIST           80        38
      PATLIST               59         0
      PLUSCOUNT             14         0
      OREACHLIST             1         0
@@ -95,7 +95,7 @@
      COUNTORLIST            0         2
      AWAYOFF                3         0
      ======================================
-                         2994        86 (TOTAL=3080)
+                         3020        87 (TOTAL=3107)
 
      1-ON NORMAL (OVERLAP OK)
      ========================
@@ -1497,6 +1497,30 @@
             3768  Witches Broom              Hits=1   MultiBingo=0   NumMasks=1
             3769  3 Lttle Pgs                Hits=1   MultiBingo=0   NumMasks=1
             3770  > Than < Than              Hits=1   MultiBingo=0   NumMasks=2
+            3772  TrickTreat Bag             Hits=1   MultiBingo=0   NumMasks=1
+            3773  31                         Hits=1   MultiBingo=0   NumMasks=1
+            3774  Number 18                  Hits=1   MultiBingo=0   NumMasks=1
+            3775  Elephant                   Hits=1   MultiBingo=0   NumMasks=1
+            3776  Happy Face                 Hits=1   MultiBingo=0   NumMasks=1
+            3777  Peapod                     Hits=1   MultiBingo=0   NumMasks=1
+            3778  Turkey Tracks              Hits=1   MultiBingo=0   NumMasks=2
+            3779  Spoon                      Hits=1   MultiBingo=0   NumMasks=1
+            3780  Haystack                   Hits=1   MultiBingo=0   NumMasks=1
+            3781  Mug (Hot Toddy)            Hits=1   MultiBingo=0   NumMasks=1
+            3782  Salt and Pepper            Hits=1   MultiBingo=0   NumMasks=1
+            3783  Candy Cane                 Hits=1   MultiBingo=0   NumMasks=1
+            3784  Holiday Tree               Hits=1   MultiBingo=0   NumMasks=1
+            3785  Bobsled                    Hits=1   MultiBingo=0   NumMasks=1
+            3786  Three Candles              Hits=1   MultiBingo=0   NumMasks=1
+            3787  Nw Yrs Clck                Hits=1   MultiBingo=0   NumMasks=8
+            3788  Hound Dog                  Hits=1   MultiBingo=0   NumMasks=1
+            3789  Splish Splash              Hits=1   MultiBingo=0   NumMasks=1
+            3790  The Twist                  Hits=1   MultiBingo=0   NumMasks=1
+            3791  Score 3                    Hits=1   MultiBingo=0   NumMasks=1
+            3792  SmDia+4Corners             Hits=1   MultiBingo=0   NumMasks=1
+            3793  Love Letter                Hits=1   MultiBingo=0   NumMasks=1
+            3794  Sealed w/ a Kiss           Hits=1   MultiBingo=0   NumMasks=1
+            3795  Joker                      Hits=1   MultiBingo=0   NumMasks=1
             4501  RainBow AWSL               Hits=1   MultiBingo=0   NumMasks=12
             4600  Eyes,Hands&Feet            Hits=1   MultiBingo=0   NumMasks=1
             4601  Full Body                  Hits=1   MultiBingo=0   NumMasks=1
@@ -2698,6 +2722,7 @@
             3750  Crzy Airpln 4w             Hits=1   MultiBingo=0   NumMasks=1
             3752  Ladder 2 Ways              Hits=1   MultiBingo=0   NumMasks=1
             3753  Triple Diag                Hits=1   MultiBingo=0   NumMasks=1
+            3796  Crazy Arrow(2)             Hits=1   MultiBingo=0   NumMasks=1
             -20   3 Corn Bracket             Hits=1   MultiBingo=0   NumMasks=1
             -37   Lg Arrow                   Hits=1   MultiBingo=0   NumMasks=1
             -120  Crazy Music Note           Hits=1   MultiBingo=0   NumMasks=1
@@ -2811,6 +2836,7 @@
             Hits=1   MultiBingo=10  Pattern=229   Name=Ten Spot
             Hits=1   MultiBingo=11  Pattern=3712  Name=11 SPOT
             Hits=1   MultiBingo=12  Pattern=3017  Name=Shotgun 12
+            Hits=1   MultiBingo=13  Pattern=3771  Name=13 Spot
             Hits=1   MultiBingo=22  Pattern=2820  Name=Cover 22
             Hits=1   MultiBingo=23  Pattern=3541  Name=Coverall -2
 
@@ -2827,6 +2853,7 @@
             3465  Any 7 Outside              Hits=1   MultiBingo=7   NumMasks=1
             3541  Coverall -2                Hits=1   MultiBingo=23  NumMasks=1
             3712  11 SPOT                    Hits=1   MultiBingo=11  NumMasks=1
+            3771  13 Spot                    Hits=1   MultiBingo=13  NumMasks=1
             -145  1st Seven Daub             Hits=1   MultiBingo=7   NumMasks=1
             -193  Triple Twos                Hits=1   MultiBingo=2   NumMasks=3
             -233  Shotgun 6                  Hits=1   MultiBingo=6   NumMasks=1
@@ -2889,6 +2916,7 @@
             3680  6 Easy pack + Line         Hits=1   MultiBingo=2   NumMasks=26
             3724  Hard 6 w/Diag OL           Hits=1   MultiBingo=2   NumMasks=16
             3751  Crzy Plus + Oc             Hits=1   MultiBingo=2   NumMasks=12
+            3797  Hard + Hard6               Hits=1   MultiBingo=2   NumMasks=22
             -1    Diag + IO Corn             Hits=1   MultiBingo=2   NumMasks=6
             -48   Reg/4C-9 Pack              Hits=1   MultiBingo=2   NumMasks=24
             -49   Reg/4C-6 Pack              Hits=1   MultiBingo=2   NumMasks=39
@@ -3324,7 +3352,7 @@
             90    2 Stamps + Line            Hits=1   MultiBingo=0   NumMasks=62
             143   Line+2 NF Stmp             Hits=1   MultiBingo=0   NumMasks=410
             349   4 Lines 1NF Stamp          Hits=1   MultiBingo=0   NumMasks=2316
-            2592  3Top & 4Btm(2)             Hits=1   MultiBingo=0   NumMasks=30
+            2592  3Top & 4Btm(2)             Hits=1   MultiBingo=0   NumMasks=50
             2665  Pstmp+Wstmp+Ln             Hits=1   MultiBingo=0   NumMasks=378
             2701  Pstmp+Line OVOK            Hits=1   MultiBingo=0   NumMasks=144
             2707  1-2-3-4-5                  Hits=1   MultiBingo=0   NumMasks=1500
@@ -4095,14 +4123,14 @@
 
                 Total  BDG: 3
                 Total  FSM: 0
-                Total 1-ON: 3080
+                Total 1-ON: 3107
                 Total 3-ON: 97
                 Total 4-ON: 35
                 Total 6-ON: 93
                 Total 9-ON: 9
                 Total   DA: 98
           -----------------------
-            Total patterns: 3430
+            Total patterns: 3457
 
 
      PATTERN STYLE SUMMARY
@@ -4110,13 +4138,13 @@
 
           NAME             OVERLAP  NON-OVERLAP
           --------------------------------------
-          NORMAL              2544        19
-          ROTATING             163         0
+          NORMAL              2568        19
+          ROTATING             164         0
           UNIQUEMASKS           26         0
           MASKLIST             167         1
           EACHLIST              33         0
-          COUNT                  0        29
-          ANDEACHLIST           79        38
+          COUNT                  0        30
+          ANDEACHLIST           80        38
           PATLIST               59         0
           PLUSCOUNT             14         0
           OREACHLIST             2         1
@@ -4129,7 +4157,7 @@
           COUNTORLIST            0         2
           AWAYOFF                3         0
           --------------------------------------
-                              3325        90 (TOTAL=3415)
+                              3351        91 (TOTAL=3442)
           --------------------------------------
 
 

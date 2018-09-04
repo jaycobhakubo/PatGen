@@ -784,7 +784,7 @@ anyway1052 len = 747
 p2934 len = 789
 
 Building library: PATLIB.bin
-  Total patterns: 3430
+  Total patterns: 3454
 --- 1: Any Line
 Num = 12, Hits = 1, Attribs = 0, MultiBingo = 0 - 
  Masks - 
@@ -496044,6 +496044,350 @@ Num = 2, Hits = 1, Attribs = 0, MultiBingo = 0 -
 ++++1
 +++1+
 ++1++
+
+.
+
+
+--- 3771: 13 Spot
+Num = 1, Hits = 1, Attribs = 33, MultiBingo = 13 - PDEA_NOOVERLAP PDEA_COUNT 
+ Masks - 
+11111
+11111
+11111
+11111
+11111
+
+.
+
+
+--- 3772: TrickTreat Bag
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
++111+
+1+++1
+11111
+11111
+
+.
+
+
+--- 3773: 31
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+111+1
+++1+1
++11+1
+++1+1
+111+1
+
+.
+
+
+--- 3774: Number 18
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1+111
+1+1+1
+1+111
+1+1+1
+1+111
+
+.
+
+
+--- 3775: Elephant
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+11+11
+1+1+1
+11111
+++1++
+++1++
+
+.
+
+
+--- 3776: Happy Face
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1+1+1
+11111
+11+11
++111+
+1+++1
+
+.
+
+
+--- 3777: Peapod
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++++1
++++11
+++1+1
++1+1+
+111++
+
+.
+
+
+--- 3778: Turkey Tracks
+Num = 2, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++1++
+1+1+1
++111+
+++1++
+++1++
+
+.
+++1++
+++1++
++111+
+1+1+1
+++1++
+
+.
+
+
+--- 3779: Spoon
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++1++
++1+1+
++1+1+
+++1++
+++1++
+
+.
+
+
+--- 3780: Haystack
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++1++
++1+1+
++1+1+
+1+++1
+1+++1
+
+.
+
+
+--- 3781: Mug (Hot Toddy)
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
++111+
++1+11
++1+11
++111+
+
+.
+
+
+--- 3782: Salt and Pepper
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+11+11
+1++11
++1+1+
+11+1+
++++++
+
+.
+
+
+--- 3783: Candy Cane
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+111++
+1+1++
+++1++
+++1++
+++1++
+
+.
+
+
+--- 3784: Holiday Tree
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++1++
++111+
+++1++
+11111
+++1++
+
+.
+
+
+--- 3785: Bobsled
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
+++111
++111+
+++111
++++++
+
+.
+
+
+--- 3786: Three Candles
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++1++
+1+++1
+++1++
+1+1+1
+1+1+1
+
+.
+
+
+--- 3787: Nw Yrs Clck
+Num = 8, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++111+
+1+1+1
+1+1+1
+1+++1
++111+
+
+.
++111+
+1++11
+1+1+1
+1+++1
++111+
+
+.
++111+
+1+++1
+1+111
+1+++1
++111+
+
+.
++111+
+1+++1
+1+1+1
+1++11
++111+
+
+.
++111+
+1+++1
+1+1+1
+1+1+1
++111+
+
+.
++111+
+1+++1
+1+1+1
+11++1
++111+
+
+.
++111+
+1+++1
+111+1
+1+++1
++111+
+
+.
++111+
+11++1
+1+1+1
+1+++1
++111+
+
+.
+
+
+--- 3788: Hound Dog
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
+11++1
++111+
++1+1+
++++++
+
+.
+
+
+--- 3789: Splish Splash
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++11+
++1++1
+++++1
++++1+
+111++
+
+.
+
+
+--- 3790: The Twist
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+11+++
+1+1++
++111+
+++1+1
++++11
+
+.
+
+
+--- 3791: Score 3
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++111+
++++1+
+++1++
++++1+
++111+
+
+.
+
+
+--- 3792: SmDia+4Corners
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1+++1
+++1++
++1+1+
+++1++
+1+++1
+
+.
+
+
+--- 3793: Love Letter
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1++11
+1++11
+1++++
+1++++
+111++
+
+.
+
+
+--- 3794: Sealed w/ a Kiss
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
++1+1+
+1+1+1
++111+
++++++
 
 .
 

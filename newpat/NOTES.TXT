@@ -1,14 +1,13 @@
-Version 20170922
+Version 2018.08.29
 ======================================
-Request by: John Winterroth
-Site: Tropicana     		
+Request by: Jeffery Kaatz
+Site:   Eldorado
+
+Added new pattern
 -----------------------------------------------
 Pattern #   Pattern Name  
 
-3770		"> Than < Than "	
-
-	
-
+3797, 		"Hard + Hard6"
 
 
 

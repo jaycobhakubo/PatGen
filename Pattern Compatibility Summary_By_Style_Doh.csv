@@ -1656,6 +1656,33 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,3768,Witches Broom,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3769,3 Lttle Pgs,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3770,> Than < Than ,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,NoOverlap,Count,3771,13 Spot,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3772,TrickTreat Bag,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3773,31,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3774,Number 18,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3775,Elephant,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3776,Happy Face,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3777,Peapod,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3778,Turkey Tracks,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3779,Spoon,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3780,Haystack,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3781,Mug (Hot Toddy),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3782,Salt and Pepper,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3783,Candy Cane,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3784,Holiday Tree,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3785,Bobsled,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3786,Three Candles,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3787,Nw Yrs Clck,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3788,Hound Dog,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3789,Splish Splash,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3790,The Twist,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3791,Score 3,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3792,SmDia+4Corners,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3793,Love Letter,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3794,Sealed w/ a Kiss,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3795,Joker,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Rotating,3796,Crazy Arrow(2),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,AndEachList,3797,Hard + Hard6,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,4501,RainBow AWSL,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,4600,Eyes_Hands&Feet,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,4601,Full Body,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
