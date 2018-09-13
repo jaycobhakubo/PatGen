@@ -76,7 +76,7 @@
 
      NAME             OVERLAP  NON-OVERLAP
      =====================================
-     NORMAL              2461        18
+     NORMAL              2462        18
      ROTATING             158         0
      UNIQUEMASKS            5         0
      MASKLIST               0         0
@@ -95,7 +95,7 @@
      COUNTORLIST            0         2
      AWAYOFF                3         0
      ======================================
-                         3021        92 (TOTAL=3113)
+                         3022        92 (TOTAL=3114)
 
      1-ON NORMAL (OVERLAP OK)
      ========================
@@ -1511,8 +1511,9 @@
             3798  31                         Hits=1   MultiBingo=0   NumMasks=1
             3799  Vampire Fangs              Hits=1   MultiBingo=0   NumMasks=1
             3800  U no crns                  Hits=1   MultiBingo=0   NumMasks=1
-            3800  U no crns                  Hits=1   MultiBingo=0   NumMasks=1
             3802  TpBtm Full V               Hits=1   MultiBingo=0   NumMasks=2
+            3803  Any 9 Around Corn          Hits=1   MultiBingo=0   NumMasks=16
+            3804  2Crzy Lg T                 Hits=1   MultiBingo=0   NumMasks=6
             4501  RainBow AWSL               Hits=1   MultiBingo=0   NumMasks=12
             4600  Eyes,Hands&Feet            Hits=1   MultiBingo=0   NumMasks=1
             4601  Full Body                  Hits=1   MultiBingo=0   NumMasks=1
@@ -4142,14 +4143,14 @@
 
                 Total  BDG: 3
                 Total  FSM: 0
-                Total 1-ON: 3113
+                Total 1-ON: 3114
                 Total 3-ON: 97
                 Total 4-ON: 35
                 Total 6-ON: 93
                 Total 9-ON: 9
                 Total   DA: 98
           -----------------------
-            Total patterns: 3463
+            Total patterns: 3464
 
 
      PATTERN STYLE SUMMARY
@@ -4157,7 +4158,7 @@
 
           NAME             OVERLAP  NON-OVERLAP
           --------------------------------------
-          NORMAL              2554        19
+          NORMAL              2555        19
           ROTATING             165         0
           UNIQUEMASKS           26         0
           MASKLIST             167         1
@@ -4176,7 +4177,7 @@
           COUNTORLIST            0         2
           AWAYOFF                3         0
           --------------------------------------
-                              3352        96 (TOTAL=3448)
+                              3353        96 (TOTAL=3449)
           --------------------------------------
 
 

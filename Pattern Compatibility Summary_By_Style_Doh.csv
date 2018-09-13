@@ -1686,9 +1686,10 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,3798,31,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3799,Vampire Fangs,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3800,U no crns,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,3800,U no crns,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Rotating,3801,Crzy Hlf Blckt,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3802,TpBtm Full V,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3803,Any 9 Around Corn,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3804,2Crzy Lg T,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,4501,RainBow AWSL,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,4600,Eyes_Hands&Feet,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,4601,Full Body,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y

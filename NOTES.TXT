@@ -1,14 +1,17 @@
-Version 2018.09.11
+Version 2018.09.13
 ======================================
-Request by: Bonnie
-Site: Circle 9 Ranch  
+Request by: Brook Schmidt
+Site: Glazier Peaks Casino
 
 Added new pattern
 -----------------------------------------------
 Pattern #   Pattern Name      Pattern Full Name  
 
-3801, 		"Crzy Hlf Blckt"  Crazy Half Blockout   
-3802, 		"Tp\Btm Full V"   Top or Bottom Full V
+3803, 		"Crzy Hlf Blckt"  Crazy Half Blockout   
+3804, 		"Tp\Btm Full V"   Top or Bottom Full V
+
+3803,		"Any 9 Around Corn"  Any 9 Around Corner
+3804,		"2Crzy Lg T"         2 Crazy Large Letter T
 
 
 

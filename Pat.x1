@@ -2794,6 +2794,7 @@
 
 // 2018.09.13 (Glazier Peaks Casino By: Brook Schmidt)
 {3803, "Any 9 Around Corn",1,PDEA_NONE, SM_3803, 0 , FRM_3803 }, 
+{3804, "2Crzy Lg T",1,PDEA_NONE, SM_3804, 0 , FRM_3804 }, 
 
 //////////////////////////////////////////////////
 // Games with Special Bitmap
