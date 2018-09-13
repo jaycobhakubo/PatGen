@@ -7,9 +7,6 @@ Added new pattern
 -----------------------------------------------
 Pattern #   Pattern Name      Pattern Full Name  
 
-3803, 		"Crzy Hlf Blckt"  Crazy Half Blockout   
-3804, 		"Tp\Btm Full V"   Top or Bottom Full V
-
 3803,		"Any 9 Around Corn"  Any 9 Around Corner
 3804,		"2Crzy Lg T"         2 Crazy Large Letter T
 
