@@ -784,7 +784,7 @@ anyway1052 len = 747
 p2934 len = 789
 
 Building library: PATLIB.bin
-  Total patterns: 3457
+  Total patterns: 3460
 --- 1: Any Line
 Num = 12, Hits = 1, Attribs = 0, MultiBingo = 0 - 
  Masks - 
@@ -496712,6 +496712,42 @@ Num = 22, Hits = 1, Attribs = 64, MultiBingo = 2 - PDEA_ANDEACHLIST
 11111
 11111
 11111
+
+.
+
+
+--- 3798: 31
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+111+1
+++1+1
++1++1
+++1+1
+111+1
+
+.
+
+
+--- 3799: Vampire Fangs
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1+1+1
++1+1+
++++++
++1+1+
+1+1+1
+
+.
+
+
+--- 3800: U no crns
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
+1+++1
+1+++1
+1+++1
++111+
 
 .
 

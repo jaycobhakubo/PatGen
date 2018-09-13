@@ -76,8 +76,8 @@
 
      NAME             OVERLAP  NON-OVERLAP
      =====================================
-     NORMAL              2475        18
-     ROTATING             157         0
+     NORMAL              2480        18
+     ROTATING             158         0
      UNIQUEMASKS            5         0
      MASKLIST               0         0
      EACHLIST               6         0
@@ -95,7 +95,7 @@
      COUNTORLIST            0         2
      AWAYOFF                3         0
      ======================================
-                         3020        87 (TOTAL=3107)
+                         3026        87 (TOTAL=3113)
 
      1-ON NORMAL (OVERLAP OK)
      ========================
@@ -1521,6 +1521,11 @@
             3793  Love Letter                Hits=1   MultiBingo=0   NumMasks=1
             3794  Sealed w/ a Kiss           Hits=1   MultiBingo=0   NumMasks=1
             3795  Joker                      Hits=1   MultiBingo=0   NumMasks=1
+            3798  31                         Hits=1   MultiBingo=0   NumMasks=1
+            3799  Vampire Fangs              Hits=1   MultiBingo=0   NumMasks=1
+            3800  U no crns                  Hits=1   MultiBingo=0   NumMasks=1
+            3800  U no crns                  Hits=1   MultiBingo=0   NumMasks=1
+            3802  TpBtm Full V               Hits=1   MultiBingo=0   NumMasks=2
             4501  RainBow AWSL               Hits=1   MultiBingo=0   NumMasks=12
             4600  Eyes,Hands&Feet            Hits=1   MultiBingo=0   NumMasks=1
             4601  Full Body                  Hits=1   MultiBingo=0   NumMasks=1
@@ -2723,6 +2728,7 @@
             3752  Ladder 2 Ways              Hits=1   MultiBingo=0   NumMasks=1
             3753  Triple Diag                Hits=1   MultiBingo=0   NumMasks=1
             3796  Crazy Arrow(2)             Hits=1   MultiBingo=0   NumMasks=1
+            3801  Crzy Hlf Blckt             Hits=1   MultiBingo=0   NumMasks=1
             -20   3 Corn Bracket             Hits=1   MultiBingo=0   NumMasks=1
             -37   Lg Arrow                   Hits=1   MultiBingo=0   NumMasks=1
             -120  Crazy Music Note           Hits=1   MultiBingo=0   NumMasks=1
@@ -4123,14 +4129,14 @@
 
                 Total  BDG: 3
                 Total  FSM: 0
-                Total 1-ON: 3107
+                Total 1-ON: 3113
                 Total 3-ON: 97
                 Total 4-ON: 35
                 Total 6-ON: 93
                 Total 9-ON: 9
                 Total   DA: 98
           -----------------------
-            Total patterns: 3457
+            Total patterns: 3463
 
 
      PATTERN STYLE SUMMARY
@@ -4138,8 +4144,8 @@
 
           NAME             OVERLAP  NON-OVERLAP
           --------------------------------------
-          NORMAL              2568        19
-          ROTATING             164         0
+          NORMAL              2573        19
+          ROTATING             165         0
           UNIQUEMASKS           26         0
           MASKLIST             167         1
           EACHLIST              33         0
@@ -4157,7 +4163,7 @@
           COUNTORLIST            0         2
           AWAYOFF                3         0
           --------------------------------------
-                              3351        91 (TOTAL=3442)
+                              3357        91 (TOTAL=3448)
           --------------------------------------
 
 

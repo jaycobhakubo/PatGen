@@ -2781,9 +2781,23 @@
 // 2018.08.29 (Eldorado request)
 {3797, "Hard + Hard6", 1, PDEA_ANDEACHLIST, (BYTE *)SM_3797, 2, FRM_3797}, 
 
+// 2018.09.05  (Suncoast)
+{3798, "31", 1,	PDEA_NONE,	SM_3798,	0,	SM_3798},
+{3799, "Vampire Fangs", 1,	PDEA_NONE,	SM_3799,	0,	SM_3799},
+
+// 2018.09.10  
+{3800, "U no crns", 1,	PDEA_NONE,	SM_3800,	0,	SM_3800},
+
+// 2018.09.11 (Circle 9 Ranch By: Bonnie)
+{3801, "Crzy Hlf Blckt", 1, PDEA_ROTATING, SM_3801, 0, SM_3801}, 
+{3802, "Tp\Btm Full V",	 1, PDEA_NONE,	   SM_3802, 0, FRM_3802},
+
+// 2018.09.13 (Glazier Peaks Casino By: Brook Schmidt)
+{3803, "Any 9 Around Corn",1,PDEA_NONE, SM_3803, 0 , FRM_3803 }, 
+
 //////////////////////////////////////////////////
 // Games with Special Bitmap
-/////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////FRM_3802
 {  4600, "Eyes,Hands&Feet",1,PDEA_NONE, SM_3403, 0, SM_3403},
 {  4601, "Full Body",1,PDEA_NONE, SM_3404, 0, SM_3404},
 

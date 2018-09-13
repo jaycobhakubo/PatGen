@@ -141,7 +141,7 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,NoOverlap,Normal,139,3 NF Stamps,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,140,Dbl Bgo/Sm Fr,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,141,Reg 4C/Sm Fr,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,142,3 Any Way,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,OREachList,142,3 Any Way,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,PureAndList,143,Line+2 NF Stmp,Trav:,Y1,TED:,Y1,TED2C:,Y1,HH:,Y1,FB:,Y1
 1-ON,Overlap,Normal,144,1 NF Stamp,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,NoOverlap,Normal,145,3 Float Stamp,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -151,7 +151,7 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,149,Small X,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,150,X Missing 1,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,151,Small Cross,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,152,Tpl Anyway (F),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,OREachList,152,Tpl Anyway (F),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,AndEachList,153,Line + Box,Trav:,Y,TED:,Y,TED2C:,Y2;4,HH:,NO,FB:,Y
 1-ON,Overlap,Normal,154,Lg Frame (Cover),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,AndEachList,155,Line + Any Bingo,Trav:,Y,TED:,Y,TED2C:,Y2;4,HH:,NO,FB:,Y
@@ -189,7 +189,7 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,187,N Row + Sm Diam,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Rotating,188,Dbl Postage F/C,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,189,Target Bingo,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,190,4 Anyway,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,OREachList,190,4 Anyway,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,191,3 x 5 Anywhere,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,192,Double Diamond,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,193,Broken Frame,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -324,8 +324,8 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,322,Top Half,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,323,Dbl Anyway (IC),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,324,Anyway (IC),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,325,4 Anyway (IC),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,326,3 Anyway(IC),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,OREachList,325,4 Anyway (IC),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,OREachList,326,3 Anyway(IC),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,327,Diag + 1 Corn,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,328,Any RR,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,329,Top Line,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -348,11 +348,11 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,346,Tall Top Hat,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,347,Letter V,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,348,Small W,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,PureAndList,349,4 Lines 1NF Stamp,Trav:,Y1,TED:,Y1,TED2C:,Y1,HH:,Y1,FB:,Y1
+1-ON,Overlap,ReqEachList,349,4 Lines 1NF Stamp,Trav:,Y1,TED:,Y1,TED2C:,Y1,HH:,Y1,FB:,Y1
 1-ON,Overlap,Normal,350,N&O-G&O-NGO,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,AndEachList,351,Line + Any (FS),Trav:,Y,TED:,Y,TED2C:,Y2;4,HH:,NO,FB:,Y
 1-ON,Overlap,Normal,352,Dbl ANYWAY (FS),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,353,Tpl ANYWAY (FS),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,NoOverlap,OREachList,353,Tpl ANYWAY (FS),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,354,Pocola Arrow,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,AndEachList,355,Line + Any (IC),Trav:,Y,TED:,Y,TED2C:,Y2;4,HH:,NO,FB:,Y
 1-ON,Overlap,Normal,356,Hard Horizontal,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -607,7 +607,7 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,2704,Small 7-11,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,2705,Spider(2),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,2706,Fly+Swatter(3),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,PureAndList,2707,1-2-3-4-5,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,ReqEachList,2707,1-2-3-4-5,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,2708,Zig Zag(2),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,2709,Step Ladder,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,2710,Book Ends,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -832,7 +832,7 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,2931,9 in Corner + OC,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,2932,Crazy #8,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,2933,Omaha Dbl Bingo,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,2934,Tpl Ln/Pst/OC/DM/DMPT,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,OREachList,2934,Tpl Ln/Pst/OC/DM/DMPT,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,2935,Lucky 7 (3 ways),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,2936,Turtle (4),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,2937,Bowling Pin&Ball,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -883,7 +883,7 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,2982,Crazy 4x4,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,2983,Letter G(2),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,2984,Letter D(3),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,2985,Tpl 20 Ways,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,ReqEachList,2985,Tpl 20 Ways,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,2986,Number 1(5),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,2987,Home Plate,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,2988,Dbl Arrow 1Way,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -1199,7 +1199,7 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,OrList,3298,1Top/2Mid/3Bot,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3299,1Anyway,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3300,2Anyway,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,3301,3Anyway,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,OREachList,3301,3Anyway,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,OrList,3302,Hard6pack+Line,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3303,All I_G_O,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3304,Umbrella(9),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -1234,8 +1234,8 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,3333,RtArrowClosed,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3334,Inverted Little T,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3335,2Anyway(3),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,3336,3Anyway(3),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,OrList,3337,Tpl Charleston(2),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,OREachList,3336,3Anyway(3),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,OREachList,3337,Tpl Charleston(2),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3338,Letters I & S,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3339,Ice Skate,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3340,Letters J & C,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -1408,7 +1408,7 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,OrList,3520,DabC Triple,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3521,PB Umbrella,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3522,CA no N no OC,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,3523,Triple Pops,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,NoOverlap,OREachList,3523,Triple Pops,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,OrList,3524,Letter X and Line,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,PureAndList,3525,Corner Stamp and Line NoOl,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3526,Broken Heart,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -1434,7 +1434,7 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,3546,Teeter Totter,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3547,2 Blocks w UL,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,OrList,3548,Ln+Ln/Pst/OC,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,3549,Double Pops,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,NoOverlap,OREachList,3549,Double Pops,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3550,Pogo Stick,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,PureAndList,3551,BNO Crazy 3s,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3552,151,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -1447,7 +1447,7 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Rotating,3559,Crazy In Layer Cake,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3560,WAC,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3561,Static,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,3562,Triple Bingo w/ Postage Stamp,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,OREachList,3562,Triple Bingo w/ Postage Stamp,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3563,Trick or Treat,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3564,Players 2 Layer Cake,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,3565,Reg_IOC_SMLG DIA_pstamp,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -1683,6 +1683,12 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,3795,Joker,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Rotating,3796,Crazy Arrow(2),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,AndEachList,3797,Hard + Hard6,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3798,31,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3799,Vampire Fangs,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3800,U no crns,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3800,U no crns,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Rotating,3801,Crzy Hlf Blckt,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3802,TpBtm Full V,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,4501,RainBow AWSL,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,4600,Eyes_Hands&Feet,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,4601,Full Body,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -1796,7 +1802,7 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,-86,Large Plus or X,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-87,Popsicle,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-88,Indian Star (lg),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,-89,4 Lines w/4C,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,OREachList,-89,4 Lines w/4C,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-90,Lg Frame -1,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-91,Bottom Line,Trav:,Y,TED:,Y,TED2C:,Y2;4,HH:,NO,FB:,Y
 1-ON,Overlap,Normal,-92,Sh Goal Post,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -1854,7 +1860,7 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,-144,Top or Bottom 3,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,NoOverlap,Count,-145,1st Seven Daub,Trav:,Y,TED:,Y1,TED2C:,Y2;3,HH:,Y,FB:,Y2
 1-ON,Overlap,Normal,-146,Question Mark,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,-147,Tpl Reg/NFS/4C,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,OREachList,-147,Tpl Reg/NFS/4C,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-148,Dbl Reg/NFS/4C,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,AndEachList,-149,Line + Reg/NFS/4C,Trav:,Y,TED:,Y,TED2C:,Y2;4,HH:,NO,FB:,Y
 1-ON,Overlap,Normal,-150,Layer Cake Free C,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -1956,7 +1962,7 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,-246,Division Sign,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-247,Columns,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-248,Roman II,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,AndEachList,-249,3B 3N 3O,Trav:,Y,TED:,Y,TED2C:,Y2;4,HH:,NO,FB:,Y
+1-ON,NoOverlap,Count,-249,3B 3N 3O,Trav:,Y,TED:,Y,TED2C:,Y2;4,HH:,NO,FB:,Y
 1-ON,Overlap,Normal,-250,Crazy Dbl Frame,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-251,2 Sm Kites,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-252,Number 10,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -2136,13 +2142,13 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,-426,Sm Checkmark (2),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-427,Flag (b),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-428,Lg Diam - 1,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,-429,NONE ,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,NoOverlap,OREachList,-429,NONE ,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,NoOverlap,Count,-430,NONE ,Trav:,Y,TED:,Y1,TED2C:,Y2;3,HH:,Y,FB:,Y2
 1-ON,Overlap,Normal,-431,NONE ,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-432,NONE ,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-433,NONE ,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-434,NONE ,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,AndEachList,-435,NONE ,Trav:,Y,TED:,Y,TED2C:,Y2;4,HH:,NO,FB:,Y
+1-ON,Overlap,ReqEachList,-435,NONE ,Trav:,Y,TED:,Y,TED2C:,Y2;4,HH:,NO,FB:,Y
 1-ON,Overlap,Normal,-436,NONE ,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-437,NONE ,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-438,NONE ,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -2571,12 +2577,12 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,AwayOff,-892,Dbl Bingo -1,Trav:,Y,TED:,Y1,TED2C:,Y2,HH:,Y5,FB:,Y
 1-ON,Overlap,Normal,-893,Ltr TUp/TDn/X,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-894,Ltr T/Sm Frame,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,-895,3Anyway(IC/SmFrm),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,OREachList,-895,3Anyway(IC/SmFrm),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-896,Ltr I 2 Ways,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-897,B.I.G,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,OrList,-898,SmCzyKite/CzyRRTk,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,OrList,-899,DblBingo/CrzyChev,Trav:,Y1,TED:,Y1,TED2C:,Y1,HH:,Y1,FB:,Y1
-1-ON,Overlap,PureAndList,-900,5 Pair,Trav:,Y1,TED:,Y1,TED2C:,Y1,HH:,Y1,FB:,Y1
+1-ON,Overlap,ReqEachList,-900,5 Pair,Trav:,Y1,TED:,Y1,TED2C:,Y1,HH:,Y1,FB:,Y1
 1-ON,Overlap,Normal,-901,Xmas Tree(9),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-902,Love Letter(Czy),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-903,Top Hat(Czy),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -2727,8 +2733,8 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,OrList,-1048,WStamp/Block9-1,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,EachList,-1049,4Cols w/2 Daubs,Trav:,Y,TED:,NO,TED2C:,Y,HH:,Y,FB:,Y6
 1-ON,Overlap,Normal,-1050,Jackpot Coverall,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,-1051,2 Anyway (Pstamp),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,Normal,-1052,3 Anyway (Pstamp),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,OREachList,-1051,2 Anyway (Pstamp),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,OREachList,-1052,3 Anyway (Pstamp),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-1053,2 Horiz Free N,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-1054,Thin D,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-1055,Czy L/Block9,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -2755,13 +2761,13 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,-1076,Grave Site,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-1077,Lg Plus/4 Pstamp,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,OrList,-1078,Dbl Bingo(SC),Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
-1-ON,Overlap,OrList,-1079,Tpl Bingo(SC),Trav:,Y1,TED:,Y1,TED2C:,Y1,HH:,Y1,FB:,Y1
+1-ON,Overlap,OREachList,-1079,Tpl Bingo(SC),Trav:,Y1,TED:,Y1,TED2C:,Y1,HH:,Y1,FB:,Y1
 1-ON,Overlap,Normal,-1080,Hatchet,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-1081,Jack-o-latern,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-1082,Broom,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-1083,2Pstamps/SmKite,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,OrList,-1084,Dbl Charleston,Trav:,Y1,TED:,Y1,TED2C:,Y1,HH:,Y1,FB:,Y1
-1-ON,Overlap,OrList,-1085,Tpl Charleston,Trav:,Y1,TED:,Y1,TED2C:,Y1,HH:,Y1,FB:,Y1
+1-ON,Overlap,OREachList,-1085,Tpl Charleston,Trav:,Y1,TED:,Y1,TED2C:,Y1,HH:,Y1,FB:,Y1
 1-ON,Overlap,Normal,-1086,Jack O' Lantern,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-1087,Guillotine,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-1088,Line+4C/Czy BowTie,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -2788,7 +2794,7 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,-1160,OC/SMPlusWFree,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-1161,L Both Ways,Trav:,Y1,TED:,Y1,TED2C:,Y1,HH:,Y1,FB:,Y1
 1-ON,Overlap,OrList,-1162,Dbl Ln/NFS/OC/IC/DM,Trav:,Y1,TED:,Y1,TED2C:,Y1,HH:,Y1,FB:,Y1
-1-ON,Overlap,OrList,-1163,Tpl Ln/NFS/OC/IC/DM,Trav:,Y1,TED:,Y1,TED2C:,Y1,HH:,Y1,FB:,Y1
+1-ON,Overlap,OREachList,-1163,Tpl Ln/NFS/OC/IC/DM,Trav:,Y1,TED:,Y1,TED2C:,Y1,HH:,Y1,FB:,Y1
 1-ON,Overlap,OrList,-1164,Ln+SmDia/IC/OC/NFStmp,Trav:,Y1,TED:,Y1,TED2C:,Y1,HH:,Y1,FB:,Y1
 1-ON,Overlap,Normal,-1165,Czy L/Czy C,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-1166,CzySmKite/DblPstamp,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y

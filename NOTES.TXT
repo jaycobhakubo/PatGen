@@ -1,13 +1,15 @@
-Version 2018.08.29
+Version 2018.09.11
 ======================================
-Request by: Jeffery Kaatz
-Site:   Eldorado
+Request by: Bonnie
+Site: Circle 9 Ranch  
 
 Added new pattern
 -----------------------------------------------
-Pattern #   Pattern Name  
+Pattern #   Pattern Name      Pattern Full Name  
 
-3797, 		"Hard + Hard6"
+3801, 		"Crzy Hlf Blckt"  Crazy Half Blockout   
+3802, 		"Tp\Btm Full V"   Top or Bottom Full V
+
 
 
 
