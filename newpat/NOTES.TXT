@@ -1,13 +1,14 @@
-Version 2018.09.10
+Version 2018.09.13
 ======================================
-Request by: Mark Johnson
-Site:   
+Request by: Brook Schmidt
+Site: Glazier Peaks Casino
 
 Added new pattern
 -----------------------------------------------
-Pattern #   Pattern Name  
+Pattern #   Pattern Name      Pattern Full Name  
 
-3798, 		"U no crns"
+3803,		"Any 9 Around Corn"  Any 9 Around Corner
+3804,		"2Crzy Lg T"         2 Crazy Large Letter T
 
 
 
