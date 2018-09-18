@@ -1,14 +1,23 @@
-Version 2018.09.13
+Version 2018.09.17
 ======================================
-Request by: Brook Schmidt
-Site: Glazier Peaks Casino
+Request by: Bweston
+Site: Table Mountain Casino
 
 Added new pattern
 -----------------------------------------------
-Pattern #   Pattern Name      Pattern Full Name  
+Pattern #   Pattern Name				Pattern Full Name  
 
-3803,		"Any 9 Around Corn"  Any 9 Around Corner
-3804,		"2Crzy Lg T"         2 Crazy Large Letter T
+3805,		"Small Arrow"				Small Arrow
+3806,		"Opposite Blck 4"			Opposite Blocks of 4
+3807,		"Inside Brckt"				Inside Brackets
+3808,		"Opposite Smll Dgnals"		Opposite Small Diagonals
+3809,		"Smll X in U/R Crnrs"		Small X in U/R Corners
+3810,		"Smll Dgnal+2 Crnrs"		Small Diagonal with Corners
+3811,		"Shooting Star"				Shooting Star
+3812,		"Top/Btm Staple"			Top or Bottom Staple
+3813,		"Goldfish(2)"				Goldfish(2)
+3814,		"Crzy Inside Arrowhd"		Crazy Inside Arrowhead
+
 
 
 

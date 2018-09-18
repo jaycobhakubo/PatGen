@@ -2022,6 +2022,16 @@ Pat #,Pattern Name,Style,Pattern Type,Overlap?,Traveler,,TED,,TED-2-C,,Handheld,
 3802,TpBtm Full V,1-ON,Overlap,Normal,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 3803,Any 9 Around Corn,1-ON,Overlap,Normal,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 3804,2Crzy Lg T,1-ON,Overlap,Normal,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+3805,Small Arrow,1-ON,Overlap,Rotating,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+3806,Opposite Blck 4,1-ON,Overlap,Rotating,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+3807,Inside Brckt,1-ON,Overlap,Normal,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+3808,Opposite Smll Dgnals,1-ON,Overlap,Rotating,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+3809,Smll X in U/R,1-ON,Overlap,Normal,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+3810,Smll Dgnal+2 Crnrs,1-ON,Overlap,Normal,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+3811,Shooting Star,1-ON,Overlap,Normal,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+3812,Top/Btm Staple,1-ON,Overlap,Normal,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+3813,Goldfish(2),1-ON,Overlap,Normal,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+3814,Crzy Inside Arrowhd,1-ON,Overlap,Rotating,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 4501,RainBow AWSL,1-ON,Overlap,Normal,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 4600,Eyes_Hands&Feet,1-ON,Overlap,Normal,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 4601,Full Body,1-ON,Overlap,Normal,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
