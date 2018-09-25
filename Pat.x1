@@ -2808,6 +2808,9 @@
 {3813, "Goldfish(2)",			1,	PDEA_NONE,			SM_3813, 0,	SM_3813},
 {3814, "Crzy Inside Arrowhd",	1,	PDEA_ROTATING,		SM_3814, 0,	SM_3814},
 
+//2018.09.24(additional for Table Mountain Casino)
+{3815, "Lft Rght 3 Legged X",	1,	PDEA_NONE,			SM_3815, 0,	FRM_3815},
+
 //////////////////////////////////////////////////
 // Games with Special Bitmap
 /////////////////////////////////////////////////////////FRM_3802
