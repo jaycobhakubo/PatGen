@@ -2796,7 +2796,7 @@
 {3803, "Any 9 Around Corn",1,PDEA_NONE, SM_3803, 0 , FRM_3803 }, 
 {3804, "2Crzy Lg T",1,PDEA_NONE, SM_3804, 0 , FRM_3804 }, 
 
-//2018.09.17(Table Mountain Casino)
+//2018.0917(Table Mountain Casino)
 {3805, "Small Arrow",			1,	PDEA_ROTATING,		SM_3805, 0, SM_3805}, 
 {3806, "Opposite Blck 4",		1,	PDEA_ROTATING,		SM_3806, 0, SM_3806},
 {3807, "Inside Brckt",			1,	PDEA_NONE,			SM_3807, 0,	SM_3807},
@@ -2806,10 +2806,7 @@
 {3811, "Shooting Star",			1,	PDEA_NONE,			SM_3811, 0,	SM_3811},
 {3812, "Top/Btm Staple",		1,	PDEA_NONE,			SM_3812, 0,	FRM_3812},
 {3813, "Goldfish(2)",			1,	PDEA_NONE,			SM_3813, 0,	SM_3813},
-{3814, "Crzy Inside Arrowhd",	1,	PDEA_NONE,			SM_3814, 0,	FRM_3814},
-
-//2018.09.24(additional for Table Mountain Casino)
-{3815, "Lft Rght 3 Legged X",	1,	PDEA_NONE,			SM_3815, 0,	FRM_3815},
+{3814, "Crzy Inside Arrowhd",	1,	PDEA_ROTATING,		SM_3814, 0,	SM_3814},
 
 //////////////////////////////////////////////////
 // Games with Special Bitmap
