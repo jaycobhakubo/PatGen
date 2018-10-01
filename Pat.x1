@@ -2807,9 +2807,9 @@
 {3812, "Top/Btm Staple",		1,	PDEA_NONE,			SM_3812, 0,	FRM_3812},
 {3813, "Goldfish(2)",			1,	PDEA_NONE,			SM_3813, 0,	SM_3813},
 {3814, "Crzy Inside Arrowhd",	1,	PDEA_ROTATING,		SM_3814, 0,	SM_3814},
-
-//2018.09.24(additional for Table Mountain Casino)
-{3815, "Lft Rght 3 Legged X",	1,	PDEA_NONE,			SM_3815, 0,	FRM_3815},
+{3815, "L/R 3 Legged X",		1,	PDEA_NONE,			SM_3815, 0,	FRM_3815},
+{3816, "BowTie",				1,	PDEA_NONE,			SM_3816, 0,	SM_3816},
+{3817, "Smll Arrow L/R",		1,	PDEA_NONE,			SM_3817, 0, FRM_3817}, 
 
 //////////////////////////////////////////////////
 // Games with Special Bitmap

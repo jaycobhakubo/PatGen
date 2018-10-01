@@ -784,7 +784,7 @@ anyway1052 len = 747
 p2934 len = 789
 
 Building library: PATLIBH.bin
-  Total patterns: 3474
+  Total patterns: 3477
 --- 1: Any Line
 Num = 12, Hits = 1, Attribs = 0, MultiBingo = 0 - 
  Masks - 
@@ -329398,6 +329398,56 @@ Num = 1, Hits = 1, Attribs = 2, MultiBingo = 0 - PDEA_ROTATING
 +++++
 +111+
 ++11+
++++1+
++++++
+
+.
+
+
+--- 3815: L\Rght 3 Legged X
+Num = 2, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1++++
++1+++
+++1++
++1+1+
+1+++1
+
+.
+++++1
++++1+
+++1++
++1+1+
+1+++1
+
+.
+
+
+--- 3816: BowTie
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++1+++
+11+++
+++1++
++++11
++++1+
+
+.
+
+
+--- 3817: Smll Arrow L/R
+Num = 2, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
++1+++
+1111+
++1+++
++++++
+
+.
++++++
++++1+
++1111
 +++1+
 +++++
 
