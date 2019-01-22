@@ -1,15 +1,12 @@
-Version 2018.10.01
+Version 20180212
 ======================================
-Request by: Bweston
-Site: Table Mountain Casino
-
-Added new pattern
+Request by: John Winterroth
+Site:   Tropicana
 -----------------------------------------------
-Pattern #   Pattern Name				Pattern Full Name  
+Pattern #   Pattern Name  
 
-3817,       "Smll Arrow L/R",		    Small Arrow Left and Right
-
-
+3793,		"Love Letter"
+3794,		"Sealed w/ a Kiss"
 
 
 

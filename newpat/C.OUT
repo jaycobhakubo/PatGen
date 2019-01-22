@@ -784,7 +784,7 @@ anyway1052 len = 747
 p2934 len = 789
 
 Building library: PATLIBH.bin
-  Total patterns: 3477
+  Total patterns: 3483
 --- 1: Any Line
 Num = 12, Hits = 1, Attribs = 0, MultiBingo = 0 - 
  Masks - 
@@ -51457,28 +51457,14 @@ Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 -
 .
 
 
---- 818: DA 3 HorzConLn
-Num = 3, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+--- 818: DA X-mas Tree
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
  Masks - 
+++1++
++111+
 11111
-11111
-11111
-+++++
-+++++
-
-.
-+++++
-11111
-11111
-11111
-+++++
-
-.
-+++++
-+++++
-11111
-11111
-11111
+++1++
+++1++
 
 .
 
@@ -52170,7 +52156,7 @@ Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 -
  Masks - 
 1+1+1
 +111+
-11111
+11+11
 +111+
 1+1+1
 
@@ -53365,14 +53351,14 @@ Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 -
 .
 
 
---- 894: DA Lg Crazy Kite
+--- 894: DA 4-C+SM Diamond
 Num = 1, Hits = 1, Attribs = 2, MultiBingo = 0 - PDEA_ROTATING 
  Masks - 
-111++
-111++
-111++
-+++1+
-++++1
+1+++1
+++1++
++1+1+
+++1++
+1+++1
 
 .
 
@@ -53389,14 +53375,14 @@ Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 -
 .
 
 
---- 896: DA 7-11
+--- 896: DA Bel
 Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
  Masks - 
-11+11
-+1+11
-+1+11
-+1+11
-+1+11
+++1++
++111+
++111+
+11111
+++1++
 
 .
 
@@ -329450,6 +329436,120 @@ Num = 2, Hits = 1, Attribs = 0, MultiBingo = 0 -
 +1111
 +++1+
 +++++
+
+.
+
+
+--- 3818: Any Top 3 Rows
+Num = 3, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+11111
++++++
++++++
++++++
++++++
+
+.
++++++
+11111
++++++
++++++
++++++
+
+.
++++++
++++++
+11111
++++++
++++++
+
+.
+
+
+--- 3819: WitchesHat
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
+++1++
+++1++
++111+
+11111
+
+.
+
+
+--- 3820: Letter H
+Num = 2, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++1+1
+++1+1
+++111
+++1+1
+++1+1
+
+.
+1+1++
+1+1++
+111++
+1+1++
+1+1++
+
+.
+
+
+--- 3821: Lucky X
+Num = 4, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1+1+1
+1++1+
+1+1+1
+1++++
+11111
+
+.
+11111
+1++++
+1+1+1
+1++1+
+1+1+1
+
+.
+11111
+++++1
+1+1+1
++1++1
+1+1+1
+
+.
+1+1+1
++1++1
+1+1+1
+++++1
+11111
+
+.
+
+
+--- 3822: Crown
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
+++1++
+1+1+1
+11111
+11111
+
+.
+
+
+--- 3823: Las Vegas
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
+1+1+1
+1+1+1
+1+1+1
+11+1+
 
 .
 
