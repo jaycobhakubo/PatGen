@@ -76,11 +76,7 @@
 
      NAME             OVERLAP  NON-OVERLAP
      =====================================
-<<<<<<< working copy
-     NORMAL              2495        18
-=======
      NORMAL              2496        18
->>>>>>> merge rev
      ROTATING             162         0
      UNIQUEMASKS            5         0
      MASKLIST               0         0
@@ -99,11 +95,7 @@
      COUNTORLIST            0         2
      AWAYOFF                3         0
      ======================================
-<<<<<<< working copy
-                         3045        87 (TOTAL=3132)
-=======
                          3046        87 (TOTAL=3133)
->>>>>>> merge rev
 
      1-ON NORMAL (OVERLAP OK)
      ========================
@@ -1547,14 +1539,9 @@
             3818  Any Top 3 Rows             Hits=1   MultiBingo=0   NumMasks=3
             3819  WitchesHat                 Hits=1   MultiBingo=0   NumMasks=1
             3820  Letter H                   Hits=1   MultiBingo=0   NumMasks=2
-<<<<<<< working copy
-            3821  Crown                      Hits=1   MultiBingo=0   NumMasks=1
-            3822  Las Vegas                  Hits=1   MultiBingo=0   NumMasks=1
-=======
             3821  Lucky X                    Hits=1   MultiBingo=0   NumMasks=4
             3822  Crown                      Hits=1   MultiBingo=0   NumMasks=1
             3823  Las Vegas                  Hits=1   MultiBingo=0   NumMasks=1
->>>>>>> merge rev
             4501  RainBow AWSL               Hits=1   MultiBingo=0   NumMasks=12
             4600  Eyes,Hands&Feet            Hits=1   MultiBingo=0   NumMasks=1
             4601  Full Body                  Hits=1   MultiBingo=0   NumMasks=1
@@ -4162,22 +4149,14 @@
 
                 Total  BDG: 3
                 Total  FSM: 0
-<<<<<<< working copy
-                Total 1-ON: 3132
-=======
                 Total 1-ON: 3133
->>>>>>> merge rev
                 Total 3-ON: 97
                 Total 4-ON: 35
                 Total 6-ON: 93
                 Total 9-ON: 9
                 Total   DA: 98
           -----------------------
-<<<<<<< working copy
-            Total patterns: 3482
-=======
             Total patterns: 3483
->>>>>>> merge rev
 
 
      PATTERN STYLE SUMMARY
@@ -4185,11 +4164,7 @@
 
           NAME             OVERLAP  NON-OVERLAP
           --------------------------------------
-<<<<<<< working copy
-          NORMAL              2588        19
-=======
           NORMAL              2589        19
->>>>>>> merge rev
           ROTATING             169         0
           UNIQUEMASKS           26         0
           MASKLIST             167         1
@@ -4208,11 +4183,7 @@
           COUNTORLIST            0         2
           AWAYOFF                3         0
           --------------------------------------
-<<<<<<< working copy
-                              3376        91 (TOTAL=3467)
-=======
                               3377        91 (TOTAL=3468)
->>>>>>> merge rev
           --------------------------------------
 
 

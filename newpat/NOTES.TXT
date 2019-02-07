@@ -1,12 +1,14 @@
-Version 20180212
+Version 20190124
 ======================================
-Request by: John Winterroth
-Site:   Tropicana
+Request by: Jose Corral
+Site: SunCoast
+
+Created new  patterns
 -----------------------------------------------
-Pattern #   Pattern Name  
-
-3793,		"Love Letter"
-3794,		"Sealed w/ a Kiss"
-
-
+Pattern #   Pattern Name				Pattern Full Name  
+{ 3824,		"Kings Crown",			
+{ 3825,		"Pot 0 Gold",				
+{ 3826,		"Rainbow",					
+{ 3827,		"Shillelagh",			
+{ 3828,		"Ty Dolla Sgn",			
 

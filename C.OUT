@@ -784,7 +784,7 @@ anyway1052 len = 747
 p2934 len = 789
 
 Building library: PATLIBH.bin
-  Total patterns: 3483
+  Total patterns: 3488
 --- 1: Any Line
 Num = 12, Hits = 1, Attribs = 0, MultiBingo = 0 - 
  Masks - 
@@ -329550,6 +329550,66 @@ Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 -
 1+1+1
 1+1+1
 11+1+
+
+.
+
+
+--- 3824: Kings Crown
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
++++++
+1+1+1
+11111
+11111
+
+.
+
+
+--- 3825: Pot 0 Gold
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+11111
++1+1+
+1+++1
+1+++1
++111+
+
+.
+
+
+--- 3826: Rainbow
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++11+
++1111
+11++1
+1++++
++++++
+
+.
+
+
+--- 3827: Shillelagh
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++111+
+++11+
++++1+
++++1+
++++1+
+
+.
+
+
+--- 3828: Ty Dolla Sgn
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++1111
+1+1++
+11111
+++1+1
+1111+
 
 .
 

@@ -2760,7 +2760,6 @@
 //20171211(Paradise)
 { 3787, "Nw Yrs Clck",		1,	PDEA_NONE,		SM_3787 ,		0, FRM_3787},
 
-
 //20171030 (Tropicana)
 {3788, "Hound Dog",		1,	PDEA_NONE,			SM_3788,	0,	SM_3788},
 {3789, "Splish Splash",	1,	PDEA_NONE,			SM_3789,	0,	SM_3789},
@@ -2773,9 +2772,71 @@
 {3793, "Love Letter",1,	PDEA_NONE,			SM_3793,	0,	SM_3793},
 {3794, "Sealed w/ a Kiss",1,	PDEA_NONE,	SM_3794,	0,	SM_3794},
 
+// 2018.03.30 (Fire Rock Request)
+{3795, "Joker",1,	PDEA_NONE,	SM_3795,	0,	SM_3795},
+
+// 2018.04.27 (Fantasy Springs request)
+{3796, "Crazy Arrow(2)", 1, PDEA_ROTATING, SM_3796, 0, SM_3796}, 
+
+// 2018.08.29 (Eldorado request)
+{3797, "Hard + Hard6", 1, PDEA_ANDEACHLIST, (BYTE *)SM_3797, 2, FRM_3797}, 
+
+// 2018.09.05  (Suncoast)
+{3798, "31", 1,	PDEA_NONE,	SM_3798,	0,	SM_3798},
+{3799, "Vampire Fangs", 1,	PDEA_NONE,	SM_3799,	0,	SM_3799},
+
+// 2018.09.10  
+{3800, "U no crns", 1,	PDEA_NONE,	SM_3800,	0,	SM_3800},
+
+// 2018.09.11 (Circle 9 Ranch By: Bonnie)
+{3801, "Crzy Hlf Blckt", 1, PDEA_ROTATING, SM_3801, 0, SM_3801}, 
+{3802, "Tp\Btm Full V",	 1, PDEA_NONE,	   SM_3802, 0, FRM_3802},
+
+// 2018.09.13 (Glazier Peaks Casino By: Brook Schmidt)
+{3803, "Any 9 Around Corn",1,PDEA_NONE, SM_3803, 0 , FRM_3803 }, 
+{3804, "2Crzy Lg T",1,PDEA_NONE, SM_3804, 0 , FRM_3804 }, 
+
+//2018.0917(Table Mountain Casino)
+{3805, "Small Arrow",			1,	PDEA_ROTATING,		SM_3805, 0, SM_3805}, 
+{3806, "Opposite Blck 4",		1,	PDEA_ROTATING,		SM_3806, 0, SM_3806},
+{3807, "Inside Brckt",			1,	PDEA_NONE,			SM_3807, 0,	SM_3807},
+{3808, "Opposite Smll Dgnals",	1,	PDEA_ROTATING,		SM_3808, 0, SM_3808},
+{3809, "Smll X in U/R",			1,	PDEA_NONE,			SM_3809, 0,	SM_3809},
+{3810, "Smll Dgnal+2 Crnrs",	1,	PDEA_NONE,			SM_3810, 0,	SM_3810},
+{3811, "Shooting Star",			1,	PDEA_NONE,			SM_3811, 0,	SM_3811},
+{3812, "Top/Btm Staple",		1,	PDEA_NONE,			SM_3812, 0,	FRM_3812},
+{3813, "Goldfish(2)",			1,	PDEA_NONE,			SM_3813, 0,	SM_3813},
+{3814, "Crzy Inside Arrowhd",	1,	PDEA_ROTATING,		SM_3814, 0,	SM_3814},
+{3815, "L/R 3 Legged X",		1,	PDEA_NONE,			SM_3815, 0,	FRM_3815},
+{3816, "BowTie",				1,	PDEA_NONE,			SM_3816, 0,	SM_3816},
+{3817, "Smll Arrow L/R",		1,	PDEA_NONE,			SM_3817, 0, FRM_3817}, 
+
+//20181005 (Aliante)
+{3818, "Any Top 3 Rows",		1,	PDEA_NONE,			SM_3818, 0, FRM_3818}, 
+
+//20181026 - Southpoint
+{3819, "WitchesHat",			1,	PDEA_NONE,			SM_3819, 0,	SM_3819},
+
+//20181029 - Southpoint
+{3820, "Letter H",				1,	PDEA_NONE,			SM_3820, 0,	FRM_3820},
+
+//20190102 - Fire Rock
+{3821, "Lucky X",				1,	PDEA_NONE,			SM_3821, 0,	SM_3821},
+
+//20190116 - Tropicana
+{3822, "Crown",					1,	PDEA_NONE,			SM_3822, 0,	SM_3822},
+{3823, "Las Vegas",				1,	PDEA_NONE,			SM_3823, 0,	SM_3823},
+
+//20190124 - SunCoast
+{ 3824, "Kings Crown",				1,	PDEA_NONE,		SM_3824 ,		0, SM_3824},
+{ 3825, "Pot 0 Gold",				1,	PDEA_NONE,		SM_3825 ,		0, SM_3825},
+{ 3826, "Rainbow",					1,	PDEA_NONE,		SM_3826 ,		0, SM_3826},
+{ 3827, "Shillelagh",				1,	PDEA_NONE,		SM_3827 ,		0, SM_3827},
+{ 3828, "Ty Dolla Sgn",				1,	PDEA_NONE,		SM_3828 ,		0, SM_3828},
+
 //////////////////////////////////////////////////
 // Games with Special Bitmap
-/////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////FRM_3802
 {  4600, "Eyes,Hands&Feet",1,PDEA_NONE, SM_3403, 0, SM_3403},
 {  4601, "Full Body",1,PDEA_NONE, SM_3404, 0, SM_3404},
 

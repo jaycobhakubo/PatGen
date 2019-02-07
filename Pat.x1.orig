@@ -2820,18 +2820,12 @@
 //20181029 - Southpoint
 {3820, "Letter H",				1,	PDEA_NONE,			SM_3820, 0,	FRM_3820},
 
-<<<<<<< working copy
-//20190116 - Tropicana
-{3821, "Crown",					1,	PDEA_NONE,			SM_3821, 0,	SM_3821},
-{3822, "Las Vegas",				1,	PDEA_NONE,			SM_3822, 0,	SM_3822},
-=======
 //20190102 - Fire Rock
 {3821, "Lucky X",				1,	PDEA_NONE,			SM_3821, 0,	SM_3821},
 
 //20190116 - Tropicana
 {3822, "Crown",					1,	PDEA_NONE,			SM_3822, 0,	SM_3822},
 {3823, "Las Vegas",				1,	PDEA_NONE,			SM_3823, 0,	SM_3823},
->>>>>>> merge rev
 
 //////////////////////////////////////////////////
 // Games with Special Bitmap
