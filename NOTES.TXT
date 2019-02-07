@@ -1,14 +1,13 @@
-Version 20190124
+Version 20190207
 ======================================
-Request by: Jose Corral
-Site: SunCoast
+Request by: John Winterroth
+Site: Tropicana Laughlin
 
 Created new  patterns
 -----------------------------------------------
 Pattern #   Pattern Name				Pattern Full Name  
-{ 3824,		"Kings Crown",			
-{ 3825,		"Pot 0 Gold",				
-{ 3826,		"Rainbow",					
-{ 3827,		"Shillelagh",			
-{ 3828,		"Ty Dolla Sgn",			
+3829,		"Pisces d'fish",			Pisces, the Fish
+3830,		"Pot 0 Gold(2)",			Pot o' Gold
+3831,		"Dbl Rainbow",			    Double Rainbow
+3832,		"Lcky Lady Bug",			Lucky Lady Bug
 
