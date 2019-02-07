@@ -784,7 +784,7 @@ anyway1052 len = 747
 p2934 len = 789
 
 Building library: PATLIBH.bin
-  Total patterns: 3488
+  Total patterns: 3492
 --- 1: Any Line
 Num = 12, Hits = 1, Attribs = 0, MultiBingo = 0 - 
  Masks - 
@@ -329610,6 +329610,54 @@ Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 -
 11111
 ++1+1
 1111+
+
+.
+
+
+--- 3829: Pisces d'fish
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
+1+11+
++1++1
+1+11+
++++++
+
+.
+
+
+--- 3830: Pot 0 Gold(2)
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
++111+
+1+++1
+11111
++111+
+
+.
+
+
+--- 3831: Dbl Rainbow
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
+++1++
++111+
+11+11
+1+++1
+
+.
+
+
+--- 3832: Lcky Lady Bug
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
++++++
++11++
+1111+
+1++1+
 
 .
 

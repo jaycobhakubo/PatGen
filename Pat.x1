@@ -2837,7 +2837,7 @@
 //20190207 - Tropicana
 { 3829, "Pisces d'fish",			1,	PDEA_NONE,		SM_3829 ,		0, SM_3829},
 { 3830, "Pot 0 Gold(2)",			1,	PDEA_NONE,		SM_3830 ,		0, SM_3830},
-{ 3831, "Dbl Rainbow",			1,	PDEA_NONE,		SM_3831 ,		0, SM_3831},
+{ 3831, "Dbl Rainbow",				1,	PDEA_NONE,		SM_3831 ,		0, SM_3831},
 { 3832, "Lcky Lady Bug",			1,	PDEA_NONE,		SM_3832 ,		0, SM_3832},
 
 
