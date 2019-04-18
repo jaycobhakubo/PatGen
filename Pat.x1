@@ -2626,7 +2626,7 @@
 {3708, "Piece of Cndy",					1, PDEA_NONE, SM_3708, 0, SM_3708},
 {3709, "Witches",						1, PDEA_NONE, SM_3709, 0, SM_3709},
 
-{ 3710, "Double Tripple", 1, PDEA_ANDEACHLIST | PDEA_NOOVERLAP, (BYTE*)SM_3710, 2, FRM_3710},
+{ 3710, "Double Triple", 1, PDEA_ANDEACHLIST | PDEA_NOOVERLAP, (BYTE*)SM_3710, 2, FRM_3710},
 
 //20151023
 {3711, "Flyswatter",					 1, PDEA_NONE, SM_3711, 0, FRM_3711 },
@@ -2786,7 +2786,7 @@
 {3799, "Vampire Fangs", 1,	PDEA_NONE,	SM_3799,	0,	SM_3799},
 
 // 2018.09.10  
-{3800, "U no crns", 1,	PDEA_NONE,	SM_3800,	0,	SM_3800},
+{3800, "U no crns", 1,	PDEA_NONE,	SM_3800,	0,	SM_3800}, 
 
 // 2018.09.11 (Circle 9 Ranch By: Bonnie)
 {3801, "Crzy Hlf Blckt", 1, PDEA_ROTATING, SM_3801, 0, SM_3801}, 
@@ -2840,10 +2840,48 @@
 { 3831, "Dbl Rainbow",				1,	PDEA_NONE,		SM_3831 ,		0, SM_3831},
 { 3832, "Lcky Lady Bug",			1,	PDEA_NONE,		SM_3832 ,		0, SM_3832},
 
+//20190313 Lake of Torches
+{ 3833, "Bttm Hlf Bow Tie",			1,	PDEA_NONE,		SM_3833 ,		0, SM_3833},
+{ 3834, "Tp Hlf Bow Tie",			1,	PDEA_NONE,		SM_3834 ,		0, SM_3834},
+{ 3835, "Smll Frm+Dgn(1 way)",		1,	PDEA_NONE,		SM_3835 ,		0, SM_3835},
+{ 3836, "Lawn Mower",				1,	PDEA_NONE,		SM_3836 ,		0, SM_3836},
+{ 3837, "Rotating Brckt",			1,	PDEA_ROTATING,	SM_3837 ,		0, SM_3837},
+
+//20190318 Edwin pattern request
+{ 3838, "Crazy Bowtie",				1,	PDEA_ROTATING,	SM_X798,		0, FRM_X798},
+
+//20190417
+//Bunny Ears
+{3839, "Bunny Ears",				1,	PDEA_NONE,	SM_3839,		0, SM_3839},
+
+//REFERENCE
+//======================
+//
+//{ -921,  "4Ball-SmFrame",1,PDEA_PATLIST, (BYTE *)SM_X921, 0 , FRM_X921 }, 
+//{ -1921, "4Ball-SmFrame",1,PDEA_NONE, ball4, 0 , FRM_X921 }, 
+//{ -2921, "4Ball-SmFrame",1,PDEA_NONE, inside_frame, 0 , FRM_X921 }, 
+
+//DWORD SM_X921[] = {
+//-1921, 5,
+//-2921,76,
+//0 };
+//=======================
+
+
+// South Point
+{  3840, "OC(expr_4ballcal)-Trpl", 1,PDEA_PATLIST,		(BYTE *)SM_X3840,		0 , FRM_X3840 }, 
+{ -1930, "OC(expr_4ballcal)-Trpl", 1,PDEA_NONE,			ball4a,					0 ,	FRM_X3840 }, 
+{ -2930, "OC(expr_4ballcal)-Trpl", 3,PDEA_NONE,			awsl ,					0,	FRM_X3840},
+
+{  3841, "OC(exprs5ballcall)-hrd",1,PDEA_PATLIST,	(BYTE *)SM_X3841,	0 , FRM_X3841 }, 
+{ -1931, "OC(exprs5ballcall)-hrd",1,PDEA_NONE,		ball4a,				0 , FRM_X3841}, 
+{ -2931, "OC(exprs5ballcall)-hrd",1,PDEA_NONE,		hardway ,			0,  FRM_X3841}, 
+
+
 
 //////////////////////////////////////////////////
 // Games with Special Bitmap
-/////////////////////////////////////////////////////////FRM_3802
+/////////////////////////////////////////////////////////
 {  4600, "Eyes,Hands&Feet",1,PDEA_NONE, SM_3403, 0, SM_3403},
 {  4601, "Full Body",1,PDEA_NONE, SM_3404, 0, SM_3404},
 

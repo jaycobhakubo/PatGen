@@ -76,14 +76,14 @@
 
      NAME             OVERLAP  NON-OVERLAP
      =====================================
-     NORMAL              2505        18
-     ROTATING             162         0
+     NORMAL              2514        18
+     ROTATING             164         0
      UNIQUEMASKS            5         0
      MASKLIST               0         0
      EACHLIST               6         0
      COUNT                  0        29
      ANDEACHLIST           80        38
-     PATLIST               59         0
+     PATLIST               61         0
      PLUSCOUNT             14         0
      OREACHLIST             1         0
      REQEACHLIST            4         0
@@ -95,7 +95,7 @@
      COUNTORLIST            0         2
      AWAYOFF                3         0
      ======================================
-                         3055        87 (TOTAL=3142)
+                         3068        87 (TOTAL=3155)
 
      1-ON NORMAL (OVERLAP OK)
      ========================
@@ -1551,6 +1551,11 @@
             3830  Pot 0 Gold(2)              Hits=1   MultiBingo=0   NumMasks=1
             3831  Dbl Rainbow                Hits=1   MultiBingo=0   NumMasks=1
             3832  Lcky Lady Bug              Hits=1   MultiBingo=0   NumMasks=1
+            3833  Bttm Hlf Bow Tie           Hits=1   MultiBingo=0   NumMasks=1
+            3834  Tp Hlf Bow Tie             Hits=1   MultiBingo=0   NumMasks=1
+            3835  Smll Frm+Dgn(1 way)        Hits=1   MultiBingo=0   NumMasks=1
+            3836  Lawn Mower                 Hits=1   MultiBingo=0   NumMasks=1
+            3839  Bunny Ears                 Hits=1   MultiBingo=0   NumMasks=1
             4501  RainBow AWSL               Hits=1   MultiBingo=0   NumMasks=12
             4600  Eyes,Hands&Feet            Hits=1   MultiBingo=0   NumMasks=1
             4601  Full Body                  Hits=1   MultiBingo=0   NumMasks=1
@@ -2537,6 +2542,8 @@
             -1927 4Ball-9 Pack               Hits=1   MultiBingo=0   NumMasks=17
             -1928 4Ball-Letter S             Hits=1   MultiBingo=0   NumMasks=17
             -1929 4Ball-Reg/4C               Hits=1   MultiBingo=0   NumMasks=17
+            -1930 OC(expr_4ballcal)-Trpl     Hits=1   MultiBingo=0   NumMasks=1
+            -1931 OC(exprs5ballcall)-hrd     Hits=1   MultiBingo=0   NumMasks=1
             -2239 OC/Hard+Easy               Hits=1   MultiBingo=0   NumMasks=1
             -2240 OC/3 Wstamps               Hits=1   MultiBingo=0   NumMasks=1
             -2241 OC/Pic Frm Corn            Hits=1   MultiBingo=0   NumMasks=1
@@ -2592,6 +2599,8 @@
             -2927 4Ball-9 Pack               Hits=1   MultiBingo=0   NumMasks=9
             -2928 4Ball-Letter S             Hits=1   MultiBingo=0   NumMasks=1
             -2929 4Ball-Reg/4C               Hits=1   MultiBingo=0   NumMasks=13
+            -2930 OC(expr_4ballcal)-Trpl     Hits=3   MultiBingo=0   NumMasks=12
+            -2931 OC(exprs5ballcall)-hrd     Hits=1   MultiBingo=0   NumMasks=8
             -3241 OC/Pic Frm Corn            Hits=1   MultiBingo=0   NumMasks=1
             -3242 OC/Sm Pic Frm              Hits=1   MultiBingo=0   NumMasks=1
             -3243 OC/Coverall                Hits=1   MultiBingo=0   NumMasks=1
@@ -2758,6 +2767,8 @@
             3806  Opposite Blck 4            Hits=1   MultiBingo=0   NumMasks=1
             3808  Opposite Smll Dgnals       Hits=1   MultiBingo=0   NumMasks=1
             3814  Crzy Inside Arrowhd        Hits=1   MultiBingo=0   NumMasks=1
+            3837  Rotating Brckt             Hits=1   MultiBingo=0   NumMasks=1
+            3838  Crazy Bowtie               Hits=1   MultiBingo=0   NumMasks=1
             -20   3 Corn Bracket             Hits=1   MultiBingo=0   NumMasks=1
             -37   Lg Arrow                   Hits=1   MultiBingo=0   NumMasks=1
             -120  Crazy Music Note           Hits=1   MultiBingo=0   NumMasks=1
@@ -3032,7 +3043,7 @@
             3015  PStmp+Horz/VertNO          Hits=1   MultiBingo=2   NumMasks=16
             3485  Mega Bingo                 Hits=1   MultiBingo=0   NumMasks=16
             3670  3 Vertical 4's             Hits=1   MultiBingo=3   NumMasks=66
-            3710  Double Tripple             Hits=1   MultiBingo=2   NumMasks=50
+            3710  Double Triple              Hits=1   MultiBingo=2   NumMasks=50
             3741  Outside(stmp+line)         Hits=1   MultiBingo=2   NumMasks=18
             -5    W/Stamp+Diag NO            Hits=1   MultiBingo=2   NumMasks=20
             -68   Hard+Post (NO)             Hits=1   MultiBingo=2   NumMasks=14
@@ -3056,10 +3067,12 @@
 
             Unique Pattern Summary
             ----------------------
-            Hits=1   MultiBingo=0   Pattern=-364  Name=Ln- In/Out Corn
+            Hits=1   MultiBingo=0   Pattern=3840  Name=OC(expr_4ballcal)-Trpl
 
             Pattern Listing
             ---------------
+            3840  OC(expr_4ballcal)-Trpl     Hits=1   MultiBingo=0   NumMasks=4
+            3841  OC(exprs5ballcall)-hrd     Hits=1   MultiBingo=0   NumMasks=4
             -364  Ln- In/Out Corn            Hits=1   MultiBingo=0   NumMasks=4
             -365  Ln- Dbl Chevron            Hits=1   MultiBingo=0   NumMasks=4
             -366  Ln- Dbl Postage            Hits=1   MultiBingo=0   NumMasks=4
@@ -4158,14 +4171,14 @@
 
                 Total  BDG: 3
                 Total  FSM: 0
-                Total 1-ON: 3142
+                Total 1-ON: 3155
                 Total 3-ON: 97
                 Total 4-ON: 35
                 Total 6-ON: 93
                 Total 9-ON: 9
                 Total   DA: 98
           -----------------------
-            Total patterns: 3492
+            Total patterns: 3505
 
 
      PATTERN STYLE SUMMARY
@@ -4173,14 +4186,14 @@
 
           NAME             OVERLAP  NON-OVERLAP
           --------------------------------------
-          NORMAL              2598        19
-          ROTATING             169         0
+          NORMAL              2607        19
+          ROTATING             171         0
           UNIQUEMASKS           26         0
           MASKLIST             167         1
           EACHLIST              33         0
           COUNT                  0        30
           ANDEACHLIST           80        38
-          PATLIST               59         0
+          PATLIST               61         0
           PLUSCOUNT             14         0
           OREACHLIST             2         1
           REQEACHLIST           11         0
@@ -4192,7 +4205,7 @@
           COUNTORLIST            0         2
           AWAYOFF                3         0
           --------------------------------------
-                              3386        91 (TOTAL=3477)
+                              3399        91 (TOTAL=3490)
           --------------------------------------
 
 

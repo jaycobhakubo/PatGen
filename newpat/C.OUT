@@ -784,7 +784,7 @@ anyway1052 len = 747
 p2934 len = 789
 
 Building library: PATLIBH.bin
-  Total patterns: 3492
+  Total patterns: 3505
 --- 1: Any Line
 Num = 12, Hits = 1, Attribs = 0, MultiBingo = 0 - 
  Masks - 
@@ -322749,7 +322749,7 @@ Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 -
 
 
 ProcessMultiList: num = 50
---- 3710: Double Tripple
+--- 3710: Double Triple
 Num = 50, Hits = 1, Attribs = 65, MultiBingo = 2 - PDEA_NOOVERLAP PDEA_ANDEACHLIST 
  Masks - 
 111++
@@ -329658,6 +329658,264 @@ Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 -
 +11++
 1111+
 1++1+
+
+.
+
+
+--- 3833: Bttm Hlf Bow Tie
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
++++++
+11111
+11+11
+1+++1
+
+.
+
+
+--- 3834: Tp Hlf Bow Tie
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1+++1
+11+11
+11111
++++++
++++++
+
+.
+
+
+--- 3835: Smll Frm+Dgn(1 wa
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1++++
++111+
++1+1+
++111+
+++++1
+
+.
+
+
+--- 3836: Lawn Mower
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1++++
++1+++
+++1++
+++11+
+++111
+
+.
+
+
+--- 3837: Rotating Brckt
+Num = 1, Hits = 1, Attribs = 2, MultiBingo = 0 - PDEA_ROTATING 
+ Masks - 
++++11
+++++1
+++++1
+++++1
++++11
+
+.
+
+
+--- 3838: Crazy Bowtie
+Num = 1, Hits = 1, Attribs = 2, MultiBingo = 0 - PDEA_ROTATING 
+ Masks - 
++++++
+11+11
+11111
+11+11
++++++
+
+.
+
+
+--- 3839: Bunny Ears
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++1+1+
+1+1+1
+1+1+1
+1+1+1
+1+1+1
+
+.
+
+
+--- -1930: OC(expr_4ballcal)
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1+++1
++++++
++++++
++++++
+1+++1
+
+.
+
+
+--- -2930: OC(expr_4ballcal)
+Num = 12, Hits = 3, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1++++
+1++++
+1++++
+1++++
+1++++
+
+.
++1+++
++1+++
++1+++
++1+++
++1+++
+
+.
+++1++
+++1++
+++1++
+++1++
+++1++
+
+.
++++1+
++++1+
++++1+
++++1+
++++1+
+
+.
+++++1
+++++1
+++++1
+++++1
+++++1
+
+.
+11111
++++++
++++++
++++++
++++++
+
+.
++++++
+11111
++++++
++++++
++++++
+
+.
++++++
++++++
+11111
++++++
++++++
+
+.
++++++
++++++
++++++
+11111
++++++
+
+.
++++++
++++++
++++++
++++++
+11111
+
+.
+1++++
++1+++
+++1++
++++1+
+++++1
+
+.
+++++1
++++1+
+++1++
++1+++
+1++++
+
+.
+
+
+--- -1931: OC(exprs5ballcall
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1+++1
++++++
++++++
++++++
+1+++1
+
+.
+
+
+--- -2931: OC(exprs5ballcall
+Num = 8, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1++++
+1++++
+1++++
+1++++
+1++++
+
+.
++1+++
++1+++
++1+++
++1+++
++1+++
+
+.
++++1+
++++1+
++++1+
++++1+
++++1+
+
+.
+++++1
+++++1
+++++1
+++++1
+++++1
+
+.
+11111
++++++
++++++
++++++
++++++
+
+.
++++++
+11111
++++++
++++++
++++++
+
+.
++++++
++++++
++++++
+11111
++++++
+
+.
++++++
++++++
++++++
++++++
+11111
 
 .
 
