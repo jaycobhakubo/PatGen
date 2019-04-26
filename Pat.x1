@@ -2877,6 +2877,9 @@
 { -1931, "OC(exprs5ballcall)-hrd",1,PDEA_NONE,		ball4a,				0 , FRM_X3841}, 
 { -2931, "OC(exprs5ballcall)-hrd",1,PDEA_NONE,		hardway ,			0,  FRM_X3841}, 
 
+//20190426
+//Lake of the torches
+{ 3842, "Diamond Ring",			1,	PDEA_NONE,		SM_3842 ,		0, SM_3842},
 
 
 //////////////////////////////////////////////////

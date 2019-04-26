@@ -76,7 +76,7 @@
 
      NAME             OVERLAP  NON-OVERLAP
      =====================================
-     NORMAL              2495        18
+     NORMAL              2496        18
      ROTATING             164         0
      UNIQUEMASKS            5         0
      MASKLIST               0         0
@@ -95,7 +95,7 @@
      COUNTORLIST            0         2
      AWAYOFF                3         0
      ======================================
-                         3063        92 (TOTAL=3155)
+                         3064        92 (TOTAL=3156)
 
      1-ON NORMAL (OVERLAP OK)
      ========================
@@ -1543,6 +1543,7 @@
             3835  Smll Frm+Dgn(1 way)        Hits=1   MultiBingo=0   NumMasks=1
             3836  Lawn Mower                 Hits=1   MultiBingo=0   NumMasks=1
             3839  Bunny Ears                 Hits=1   MultiBingo=0   NumMasks=1
+            3842  Diamond Ring               Hits=1   MultiBingo=0   NumMasks=1
             4501  RainBow AWSL               Hits=1   MultiBingo=0   NumMasks=12
             4600  Eyes,Hands&Feet            Hits=1   MultiBingo=0   NumMasks=1
             4601  Full Body                  Hits=1   MultiBingo=0   NumMasks=1
@@ -4184,14 +4185,14 @@
 
                 Total  BDG: 3
                 Total  FSM: 0
-                Total 1-ON: 3155
+                Total 1-ON: 3156
                 Total 3-ON: 97
                 Total 4-ON: 35
                 Total 6-ON: 93
                 Total 9-ON: 9
                 Total   DA: 98
           -----------------------
-            Total patterns: 3505
+            Total patterns: 3506
 
 
      PATTERN STYLE SUMMARY
@@ -4199,7 +4200,7 @@
 
           NAME             OVERLAP  NON-OVERLAP
           --------------------------------------
-          NORMAL              2588        19
+          NORMAL              2589        19
           ROTATING             171         0
           UNIQUEMASKS           26         0
           MASKLIST             167         1
@@ -4218,7 +4219,7 @@
           COUNTORLIST            0         2
           AWAYOFF                3         0
           --------------------------------------
-                              3394        96 (TOTAL=3490)
+                              3395        96 (TOTAL=3491)
           --------------------------------------
 
 

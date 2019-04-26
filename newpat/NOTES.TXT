@@ -1,13 +1,8 @@
-Version 20190418
+Version 20190426
 ======================================
-Request by: John Winterroth
-Site: SouthPoint
-
-(3840) corners expires in 4 Ball calls, then goes to Triple Bingo
-(3841) corners expires in 5 Ball Calls, then goes to a Hardway Bingo
-
+Request by: Brian Walter
+Site: Lake Of The Torch
 Created new  patterns
 -----------------------------------------------
 Pattern #   Pattern Name							Pattern Full Name  
-3840,		"OC(expr_4ballcal)-Trpl",				Outside Corners expired after 4 ball call then Tripple 
-3840,		"OC(exprs5ballcall)-hrd",				Outside Corners expired after 5 ball call then Hard Way
+3842,		"Diamond Ring",							Diamond Ring
