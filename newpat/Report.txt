@@ -76,14 +76,14 @@
 
      NAME             OVERLAP  NON-OVERLAP
      =====================================
-     NORMAL              2515        18
+     NORMAL              2525        18
      ROTATING             164         0
      UNIQUEMASKS            5         0
      MASKLIST               0         0
      EACHLIST               6         0
      COUNT                  0        29
      ANDEACHLIST           80        38
-     PATLIST               61         0
+     PATLIST               66         0
      PLUSCOUNT             14         0
      OREACHLIST             1         0
      REQEACHLIST            4         0
@@ -95,7 +95,7 @@
      COUNTORLIST            0         2
      AWAYOFF                3         0
      ======================================
-                         3069        87 (TOTAL=3156)
+                         3084        87 (TOTAL=3171)
 
      1-ON NORMAL (OVERLAP OK)
      ========================
@@ -2525,6 +2525,11 @@
             -1368 Ln- 3 Top 3 Bot            Hits=1   MultiBingo=0   NumMasks=12
             -1500 Speed Coverall             Hits=1   MultiBingo=0   NumMasks=1
             -1669 Flag/LR/Cov-Cov            Hits=1   MultiBingo=0   NumMasks=3
+            -1843 OC(expr_6bllcll)->Trpl     Hits=1   MultiBingo=0   NumMasks=1
+            -1844 OC_6bllcll_hrd             Hits=1   MultiBingo=0   NumMasks=1
+            -1845 OC_6bllcll_AnyLne          Hits=1   MultiBingo=0   NumMasks=1
+            -1846 OC_6bllcll_dblrglr         Hits=1   MultiBingo=0   NumMasks=1
+            -1847 OC_6bllcll_Flt6pck         Hits=1   MultiBingo=0   NumMasks=1
             -1912 4Ball-Reg+4C               Hits=1   MultiBingo=0   NumMasks=17
             -1913 4Ball-DblReg               Hits=1   MultiBingo=0   NumMasks=17
             -1914 4Ball-LgDm                 Hits=1   MultiBingo=0   NumMasks=17
@@ -2585,6 +2590,11 @@
             -2366 Ln- Dbl Postage            Hits=2   MultiBingo=0   NumMasks=4
             -2367 Ln- Sm Kite                Hits=1   MultiBingo=0   NumMasks=4
             -2669 Flag/LR/Cov-Cov            Hits=1   MultiBingo=0   NumMasks=1
+            -2843 OC(expr_6bllcll)->Trpl     Hits=3   MultiBingo=0   NumMasks=12
+            -2844 OC_6bllcll_hrd             Hits=1   MultiBingo=0   NumMasks=8
+            -2845 OC_6bllcll_AnyLne          Hits=1   MultiBingo=0   NumMasks=12
+            -2846 OC_6bllcll_dblrglr         Hits=2   MultiBingo=0   NumMasks=12
+            -2847 OC_6bllcll_Flt6pck         Hits=1   MultiBingo=0   NumMasks=24
             -2912 4Ball-Reg+4C               Hits=1   MultiBingo=0   NumMasks=12
             -2913 4Ball-DblReg               Hits=2   MultiBingo=0   NumMasks=12
             -2914 4Ball-LgDm                 Hits=1   MultiBingo=0   NumMasks=1
@@ -3074,6 +3084,11 @@
             ---------------
             3840  OC(expr_4ballcal)-Trpl     Hits=1   MultiBingo=0   NumMasks=4
             3841  OC(exprs5ballcall)-hrd     Hits=1   MultiBingo=0   NumMasks=4
+            3843  OC(expr_6bllcll)->Trpl     Hits=1   MultiBingo=0   NumMasks=4
+            3844  OC_6bllcll_hrd             Hits=1   MultiBingo=0   NumMasks=4
+            3845  OC_6bllcll_AnyLne          Hits=1   MultiBingo=0   NumMasks=4
+            3846  OC_6bllcll_dblrglr         Hits=1   MultiBingo=0   NumMasks=4
+            3847  OC_6bllcll_Flt6pck         Hits=1   MultiBingo=0   NumMasks=4
             -364  Ln- In/Out Corn            Hits=1   MultiBingo=0   NumMasks=4
             -365  Ln- Dbl Chevron            Hits=1   MultiBingo=0   NumMasks=4
             -366  Ln- Dbl Postage            Hits=1   MultiBingo=0   NumMasks=4
@@ -4172,14 +4187,14 @@
 
                 Total  BDG: 3
                 Total  FSM: 0
-                Total 1-ON: 3156
+                Total 1-ON: 3171
                 Total 3-ON: 97
                 Total 4-ON: 35
                 Total 6-ON: 93
                 Total 9-ON: 9
                 Total   DA: 98
           -----------------------
-            Total patterns: 3506
+            Total patterns: 3521
 
 
      PATTERN STYLE SUMMARY
@@ -4187,14 +4202,14 @@
 
           NAME             OVERLAP  NON-OVERLAP
           --------------------------------------
-          NORMAL              2608        19
+          NORMAL              2618        19
           ROTATING             171         0
           UNIQUEMASKS           26         0
           MASKLIST             167         1
           EACHLIST              33         0
           COUNT                  0        30
           ANDEACHLIST           80        38
-          PATLIST               61         0
+          PATLIST               66         0
           PLUSCOUNT             14         0
           OREACHLIST             2         1
           REQEACHLIST           11         0
@@ -4206,7 +4221,7 @@
           COUNTORLIST            0         2
           AWAYOFF                3         0
           --------------------------------------
-                              3400        91 (TOTAL=3491)
+                              3415        91 (TOTAL=3506)
           --------------------------------------
 
 

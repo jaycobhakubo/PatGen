@@ -1,8 +1,12 @@
-Version 20190426
+Version 20190520
 ======================================
-Request by: Brian Walter
-Site: Lake Of The Torch
+Request by: Jose Corral
+Site:  South Point
 Created new  patterns
 -----------------------------------------------
 Pattern #   Pattern Name							Pattern Full Name  
-3842,		"Diamond Ring",							Diamond Ring
+3843		 "OC(expr_6bllcll)->Trpl"
+3844		 "OC_6bllcll_hrd",			
+3845		 "OC_6bllcll_AnyLne"
+3846		 "OC_6bllcll_dblrglr"
+3847		 "OC_6bllcll_Flt6pck"

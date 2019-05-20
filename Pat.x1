@@ -2867,7 +2867,6 @@
 //0 };
 //=======================
 
-
 // South Point
 {  3840, "OC(expr_4ballcal)-Trpl", 1,PDEA_PATLIST,		(BYTE *)SM_X3840,		0 , FRM_X3840 }, 
 { -1930, "OC(expr_4ballcal)-Trpl", 1,PDEA_NONE,			ball4a,					0 ,	FRM_X3840 }, 
@@ -2881,6 +2880,32 @@
 //Lake of the torches
 { 3842, "Diamond Ring",			1,	PDEA_NONE,		SM_3842 ,		0, SM_3842},
 
+
+//20190517
+//Outside corner expires after 6 ball then goes to Tripple
+{  3843, "OC(expr_6bllcll)->Trpl",	1,PDEA_PATLIST,				(BYTE *)SM_X3843,		0 , FRM_X3840}, 
+{ -1843, "OC(expr_6bllcll)->Trpl",	1,PDEA_NONE,				ball4a,					0 ,	FRM_X3840}, 
+{ -2843, "OC(expr_6bllcll)->Trpl",	3,PDEA_NONE,				awsl ,					0,	FRM_X3840},
+
+//Outside corner expires after 6 ball then goes to Hardway
+{  3844, "OC_6bllcll_hrd",			1,PDEA_PATLIST,				(BYTE *)SM_X3844,		0 , FRM_X3841}, 
+{ -1844, "OC_6bllcll_hrd",			1,PDEA_NONE,				ball4a,					0 ,	FRM_X3841}, 
+{ -2844, "OC_6bllcll_hrd",			1,PDEA_NONE,				hardway ,				0	,FRM_X3841},
+
+//Outside corner expires after 6 ball then goes to AnyLine
+{  3845, "OC_6bllcll_AnyLne",		1,PDEA_PATLIST,				(BYTE *)SM_X3845,		0 , FRM_001}, 
+{ -1845, "OC_6bllcll_AnyLne",		1,PDEA_NONE,				ball4a,					0 ,	FRM_001}, 
+{ -2845, "OC_6bllcll_AnyLne",		1,PDEA_NONE,				awsl ,				    0 , FRM_001},
+
+//Outside corner expires after 6 ball then goes to Dbl Regular
+{  3846, "OC_6bllcll_dblrglr",		1,PDEA_PATLIST,				(BYTE *)SM_X3846,		0 , FRM_009}, 
+{ -1846, "OC_6bllcll_dblrglr",		1,PDEA_NONE,				ball4a,					0 ,	FRM_009}, 
+{ -2846, "OC_6bllcll_dblrglr",		2,PDEA_NONE,				awsl ,					0 , FRM_009},
+
+//Outside corner expires after 6 ball then goes to Float 6 pack
+{  3847, "OC_6bllcll_Flt6pck",		1,PDEA_PATLIST,				(BYTE *)SM_X3847,		0 , FRM_010}, 
+{ -1847, "OC_6bllcll_Flt6pck",		1,PDEA_NONE,				ball4a,					0 ,	FRM_010}, 
+{ -2847, "OC_6bllcll_Flt6pck",		1,PDEA_NONE,				float6pack ,			0,	FRM_010},
 
 //////////////////////////////////////////////////
 // Games with Special Bitmap
