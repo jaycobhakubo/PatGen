@@ -37,9 +37,12 @@
 { 434, "2CD Coverall",1,PDEA_MASKLIST, coverall, 2 , coverall }, 
 { 435, "4CD Double Bingo", 1, PDEA_MASKLIST, SM_435, 4, FRM_2893 },
 
-// Table Mountain Casino
-{ 436, "4CD Coverall",1,PDEA_MASKLIST, coverall, 4, coverall },
 
+// Table Mountain Casino
+{ 436, "4CD Coverall",			1,	PDEA_MASKLIST,		coverall,	4, coverall },
+
+{ 437,  "Large 7",				1,	PDEA_UNIQUEMASKS,	SM_437,		4, FRM_437 },
+{ 438,  "#Seven 1 card",		 1,	PDEA_MASKLIST,		SM_438,		1, SM_438 },
 //
 // Pick Games
 //

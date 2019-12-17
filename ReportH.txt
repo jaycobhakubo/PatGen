@@ -76,14 +76,14 @@
 
      NAME             OVERLAP  NON-OVERLAP
      =====================================
-     NORMAL              2506        18
+     NORMAL              2551        18
      ROTATING             164         0
      UNIQUEMASKS            5         0
      MASKLIST               0         0
      EACHLIST               6         0
      COUNT                  0        30
      ANDEACHLIST           78        38
-     PATLIST               66         0
+     PATLIST               68         0
      PLUSCOUNT             14         0
      OREACHLIST            19         4
      REQEACHLIST            9         0
@@ -95,7 +95,7 @@
      COUNTORLIST            0         2
      AWAYOFF                3         0
      ======================================
-                         3079        92 (TOTAL=3171)
+                         3126        92 (TOTAL=3218)
 
      1-ON NORMAL (OVERLAP OK)
      ========================
@@ -1544,6 +1544,47 @@
             3836  Lawn Mower                 Hits=1   MultiBingo=0   NumMasks=1
             3839  Bunny Ears                 Hits=1   MultiBingo=0   NumMasks=1
             3842  Diamond Ring               Hits=1   MultiBingo=0   NumMasks=1
+            3848  Anchor                     Hits=1   MultiBingo=0   NumMasks=1
+            3849  Firecracker 2              Hits=1   MultiBingo=0   NumMasks=1
+            3850  Bench                      Hits=1   MultiBingo=0   NumMasks=1
+            3851  Trophy                     Hits=1   MultiBingo=0   NumMasks=1
+            3852  Football Jersey            Hits=1   MultiBingo=0   NumMasks=1
+            3853  Number 3                   Hits=1   MultiBingo=0   NumMasks=1
+            3854  Number 21                  Hits=1   MultiBingo=0   NumMasks=1
+            3855  Smile                      Hits=1   MultiBingo=0   NumMasks=1
+            3856  Giraffe                    Hits=1   MultiBingo=0   NumMasks=1
+            3859  Devils Horns               Hits=1   MultiBingo=0   NumMasks=1
+            3860  Black Cat                  Hits=1   MultiBingo=0   NumMasks=1
+            3861  Jack O Lantern             Hits=1   MultiBingo=0   NumMasks=1
+            3862  Monster                    Hits=1   MultiBingo=0   NumMasks=1
+            3863  Graveyard                  Hits=1   MultiBingo=0   NumMasks=1
+            3864  B row Btn                  Hits=1   MultiBingo=0   NumMasks=1
+            3865  Headless                   Hits=1   MultiBingo=0   NumMasks=1
+            3866  ScaryCrow                  Hits=1   MultiBingo=0   NumMasks=1
+            3867  Cactus                     Hits=1   MultiBingo=0   NumMasks=1
+            3868  Turtle                     Hits=1   MultiBingo=0   NumMasks=1
+            3869  Angel                      Hits=1   MultiBingo=0   NumMasks=1
+            3870  Skull                      Hits=1   MultiBingo=0   NumMasks=1
+            3871  Hockey Stick               Hits=1   MultiBingo=0   NumMasks=1
+            3872  Hockey Net                 Hits=1   MultiBingo=0   NumMasks=1
+            3873  Vegas V                    Hits=1   MultiBingo=0   NumMasks=1
+            3874  Knight Sword               Hits=1   MultiBingo=0   NumMasks=1
+            3875  Knight Helmet              Hits=1   MultiBingo=0   NumMasks=1
+            3876  Spooky Cat                 Hits=1   MultiBingo=0   NumMasks=1
+            3877  Pumpkin                    Hits=1   MultiBingo=0   NumMasks=1
+            3878  Hat                        Hits=1   MultiBingo=0   NumMasks=1
+            3879  Ghost                      Hits=1   MultiBingo=0   NumMasks=1
+            3880  Number 2                   Hits=1   MultiBingo=0   NumMasks=1
+            3881  Turkey                     Hits=1   MultiBingo=0   NumMasks=1
+            3882  2020                       Hits=1   MultiBingo=0   NumMasks=1
+            3883  Autumn Leaf                Hits=1   MultiBingo=0   NumMasks=1
+            3884  Autumn Moon                Hits=1   MultiBingo=0   NumMasks=1
+            3885  Pair Of Skis               Hits=1   MultiBingo=0   NumMasks=1
+            3886  Snow Mobile                Hits=1   MultiBingo=0   NumMasks=1
+            3887  Outline Mitten             Hits=1   MultiBingo=0   NumMasks=1
+            3888  L or R Hockey Stick        Hits=1   MultiBingo=0   NumMasks=2
+            3889  Santa Hat                  Hits=1   MultiBingo=0   NumMasks=1
+            3890  Number 2                   Hits=1   MultiBingo=0   NumMasks=1
             4501  RainBow AWSL               Hits=1   MultiBingo=0   NumMasks=12
             4600  Eyes,Hands&Feet            Hits=1   MultiBingo=0   NumMasks=1
             4601  Full Body                  Hits=1   MultiBingo=0   NumMasks=1
@@ -2511,6 +2552,8 @@
             -1845 OC_6bllcll_AnyLne          Hits=1   MultiBingo=0   NumMasks=1
             -1846 OC_6bllcll_dblrglr         Hits=1   MultiBingo=0   NumMasks=1
             -1847 OC_6bllcll_Flt6pck         Hits=1   MultiBingo=0   NumMasks=1
+            -1857 OC_7BC_smllPF              Hits=1   MultiBingo=0   NumMasks=1
+            -1858 OC_7BC_hardway             Hits=1   MultiBingo=0   NumMasks=1
             -1912 4Ball-Reg+4C               Hits=1   MultiBingo=0   NumMasks=17
             -1913 4Ball-DblReg               Hits=1   MultiBingo=0   NumMasks=17
             -1914 4Ball-LgDm                 Hits=1   MultiBingo=0   NumMasks=17
@@ -2576,6 +2619,8 @@
             -2845 OC_6bllcll_AnyLne          Hits=1   MultiBingo=0   NumMasks=12
             -2846 OC_6bllcll_dblrglr         Hits=2   MultiBingo=0   NumMasks=12
             -2847 OC_6bllcll_Flt6pck         Hits=1   MultiBingo=0   NumMasks=24
+            -2857 OC_7BC_smllPF              Hits=1   MultiBingo=0   NumMasks=1
+            -2858 OC_7BC_hardway             Hits=1   MultiBingo=0   NumMasks=8
             -2912 4Ball-Reg+4C               Hits=1   MultiBingo=0   NumMasks=12
             -2913 4Ball-DblReg               Hits=2   MultiBingo=0   NumMasks=12
             -2914 4Ball-LgDm                 Hits=1   MultiBingo=0   NumMasks=1
@@ -3069,6 +3114,8 @@
             3845  OC_6bllcll_AnyLne          Hits=1   MultiBingo=0   NumMasks=4
             3846  OC_6bllcll_dblrglr         Hits=1   MultiBingo=0   NumMasks=4
             3847  OC_6bllcll_Flt6pck         Hits=1   MultiBingo=0   NumMasks=4
+            3857  OC_7BC_smllPF              Hits=1   MultiBingo=0   NumMasks=4
+            3858  OC_7BC_hardway             Hits=1   MultiBingo=0   NumMasks=4
             -364  Ln- In/Out Corn            Hits=1   MultiBingo=0   NumMasks=4
             -365  Ln- Dbl Chevron            Hits=1   MultiBingo=0   NumMasks=4
             -366  Ln- Dbl Postage            Hits=1   MultiBingo=0   NumMasks=4
@@ -3689,8 +3736,8 @@
      =====================================
      NORMAL                 0         0
      ROTATING               0         0
-     UNIQUEMASKS            2         0
-     MASKLIST              31         0
+     UNIQUEMASKS            3         0
+     MASKLIST              32         0
      EACHLIST               2         0
      COUNT                  0         0
      ANDEACHLIST            0         0
@@ -3706,7 +3753,7 @@
      COUNTORLIST            0         0
      AWAYOFF                0         0
      ======================================
-                           35         0 (TOTAL=35)
+                           37         0 (TOTAL=37)
 
      4-ON UNIQUEMASKS (OVERLAP OK)
      =============================
@@ -3719,6 +3766,7 @@
             ---------------
             409   Super Top/Bot              Hits=1   MultiBingo=4   NumMasks=4
             410   Big Letter X               Hits=1   MultiBingo=4   NumMasks=4
+            437   Large 7                    Hits=1   MultiBingo=4   NumMasks=4
 
      4-ON MASKLIST (OVERLAP OK)
      ==========================
@@ -3763,6 +3811,7 @@
             434   2CD Coverall               Hits=1   MultiBingo=2   NumMasks=1
             435   4CD Double Bingo           Hits=1   MultiBingo=4   NumMasks=66
             436   4CD Coverall               Hits=1   MultiBingo=4   NumMasks=1
+            438   #Seven 1 card              Hits=1   MultiBingo=1   NumMasks=1
 
      4-ON EACHLIST (OVERLAP OK)
      ==========================
@@ -4200,14 +4249,14 @@
 
                 Total  BDG: 3
                 Total  FSM: 0
-                Total 1-ON: 3171
+                Total 1-ON: 3218
                 Total 3-ON: 97
-                Total 4-ON: 35
+                Total 4-ON: 37
                 Total 6-ON: 93
                 Total 9-ON: 9
                 Total   DA: 98
           -----------------------
-            Total patterns: 3521
+            Total patterns: 3570
 
 
      PATTERN STYLE SUMMARY
@@ -4215,14 +4264,14 @@
 
           NAME             OVERLAP  NON-OVERLAP
           --------------------------------------
-          NORMAL              2599        19
+          NORMAL              2644        19
           ROTATING             171         0
-          UNIQUEMASKS           26         0
-          MASKLIST             167         1
+          UNIQUEMASKS           27         0
+          MASKLIST             168         1
           EACHLIST              33         0
           COUNT                  0        31
           ANDEACHLIST           78        38
-          PATLIST               66         0
+          PATLIST               68         0
           PLUSCOUNT             14         0
           OREACHLIST            20         5
           REQEACHLIST           16         0
@@ -4234,7 +4283,7 @@
           COUNTORLIST            0         2
           AWAYOFF                3         0
           --------------------------------------
-                              3410        96 (TOTAL=3506)
+                              3459        96 (TOTAL=3555)
           --------------------------------------
 
 

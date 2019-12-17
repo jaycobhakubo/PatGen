@@ -1,8 +1,9 @@
-Version 20190426
-======================================
-Request by: Brian Walter
-Site: Lake Of The Torch
-Created new  patterns
+Version 20191217
+=============
+Request by: John Winterroth
+Site:       Colusa
 -----------------------------------------------
-Pattern #   Pattern Name							Pattern Full Name  
-3842,		"Diamond Ring",							Diamond Ring
+Pattern #		Pattern Name					Pattern Full Name/Definition  
+437			    "Large 7"				
+438			    "#Seven 1 card"			
+							 

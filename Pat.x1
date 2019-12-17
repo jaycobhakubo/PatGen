@@ -2880,7 +2880,6 @@
 //Lake of the torches
 { 3842, "Diamond Ring",			1,	PDEA_NONE,		SM_3842 ,		0, SM_3842},
 
-
 //20190517
 //Outside corner expires after 6 ball then goes to Tripple
 {  3843, "OC(expr_6bllcll)->Trpl",	1,PDEA_PATLIST,				(BYTE *)SM_X3843,		0 , FRM_X3840}, 
@@ -2906,6 +2905,94 @@
 {  3847, "OC_6bllcll_Flt6pck",		1,PDEA_PATLIST,				(BYTE *)SM_X3847,		0 , FRM_010}, 
 { -1847, "OC_6bllcll_Flt6pck",		1,PDEA_NONE,				ball4a,					0 ,	FRM_010}, 
 { -2847, "OC_6bllcll_Flt6pck",		1,PDEA_NONE,				float6pack ,			0,	FRM_010},
+
+//Lake of Torches
+{ 3848, "Anchor",					1,	PDEA_NONE,			SM_3848,		0,	SM_3848}, 
+
+// 2019.07.03 Fire Rock
+{ 3849, "Firecracker 2",			1,	PDEA_NONE,			SM_3849,		0,	SM_3849}, 
+
+// 2019.07.30 Red Rock
+{ 3850, "Bench",					1,	PDEA_NONE,			SM_3850,		0,	SM_3850}, 
+{ 3851, "Trophy",					1,	PDEA_NONE,			SM_3851,		0,	SM_3851}, 
+{ 3852, "Football Jersey",			1,	PDEA_NONE,			SM_3852,		0,	SM_3852}, 
+
+// 2019.07.30 Paradise
+{ 3853, "Number 3",					1,	PDEA_NONE,			SM_3853,		0,	SM_3853}, 
+
+// 2019.08.08 Brentwood
+{ 3854, "Number 21",				1,	PDEA_NONE,			SM_3854,		0,	SM_3854}, 
+
+//20190816
+//Smile
+{3855, "Smile",						1,	PDEA_NONE,	SM_3855,		0, SM_3855},
+
+//20190828
+//Giraffe
+{3856, "Giraffe",					1,	PDEA_NONE,	SM_3856,		0, SM_3856},
+
+//20190909
+//4 Corners (expire after 7 ball calls), then small picture frame.
+{  3857, "OC_7BC_smllPF",		1,PDEA_PATLIST,				(BYTE *)SM_X3857,		0 , FRM_006}, 
+{ -1857, "OC_7BC_smllPF",		1,PDEA_NONE,				ball4a,					0 ,	FRM_006}, 
+{ -2857, "OC_7BC_smllPF",		1,PDEA_NONE,				inside_frame ,			0,	FRM_006},
+
+//4 Corners (expire after 7 ball calls), then hardway bingo.
+{  3858, "OC_7BC_hardway",		1,PDEA_PATLIST,				(BYTE *)SM_X3858,		0 , FRM_023}, 
+{ -1858, "OC_7BC_hardway",		1,PDEA_NONE,				ball4a,					0 ,	FRM_023}, 
+{ -2858, "OC_7BC_hardway",		1,PDEA_NONE,				hardway ,				0,	FRM_023},
+
+//20190916 Lake Of The Torches
+{3859, "Devils Horns",					1,	PDEA_NONE,	SM_3859,		0, SM_3859},
+{3860, "Black Cat",						1,	PDEA_NONE,	SM_3860,		0, SM_3860},
+{3861, "Jack O Lantern",				1,	PDEA_NONE,	SM_3861,		0, SM_3861},
+{3862, "Monster",						1,	PDEA_NONE,	SM_3862,		0, SM_3862},
+{3863, "Graveyard",						1,	PDEA_NONE,	SM_3863,		0, SM_3863},
+
+//20190927 Eldorado
+{3864, "B row Btn",						1,	PDEA_NONE,	SM_3864,		0, SM_3864},
+{3865, "Headless",						1,	PDEA_NONE,	SM_3865,		0, SM_3865},
+{3866, "ScaryCrow",						1,	PDEA_NONE,	SM_3866,		0, SM_3866},
+
+//20191007 Texas Station
+{3867, "Cactus",						1,	PDEA_NONE,	SM_3867,		0, SM_3867},
+{3868, "Turtle",						1,	PDEA_NONE,	SM_3868,		0, SM_3868},
+{3869, "Angel",							1,	PDEA_NONE,	SM_3869,		0, SM_3869},
+{3870, "Skull",							1,	PDEA_NONE,	SM_3870,		0, SM_3870},
+
+//20191014 Palace Station
+{3871, "Hockey Stick",					1,	PDEA_NONE,	SM_3871,		0, SM_3871},
+{3872, "Hockey Net",					1,	PDEA_NONE,	SM_3872,		0, SM_3872},
+{3873, "Vegas V",						1,	PDEA_NONE,	SM_3873,		0, SM_3873},
+{3874, "Knight Sword",					1,	PDEA_NONE,	SM_3874,		0, SM_3874},
+{3875, "Knight Helmet",					1,	PDEA_NONE,	SM_3875,		0, SM_3875},
+{3876, "Spooky Cat",					1,	PDEA_NONE,	SM_3876,		0, SM_3876},
+{3877, "Pumpkin",						1,	PDEA_NONE,	SM_3877,		0, SM_3877},
+{3878, "Hat",							1,	PDEA_NONE,	SM_3878,		0, SM_3878},
+
+//20191023 
+{3879, "Ghost",							1,	PDEA_NONE,	SM_3879,		0, SM_3879},
+
+//20191104 BingoRama
+{3880, "Number 2",						1,	PDEA_NONE,	SM_3880,		0, SM_3880},
+{3881, "Turkey",						1,	PDEA_NONE,	SM_3881,		0, SM_3881},
+
+//20191118 ?
+{3882, "2020",						   1,	PDEA_NONE,	SM_3882,		0, SM_3882},
+
+//Paradise  20191121
+{3883, "Autumn Leaf",						   1,	PDEA_NONE,	SM_3883,		0, SM_3883},
+{3884, "Autumn Moon",						   1,	PDEA_NONE,	SM_3884,		0, SM_3884},
+
+//20191202 Lake of the torch
+{3885, "Pair Of Skis",				1,	PDEA_NONE,	SM_3885,		0, SM_3885},
+{3886, "Snow Mobile",				1,	PDEA_NONE,	SM_3886,		0, SM_3886},
+{3887, "Outline Mitten",			1,	PDEA_NONE,	SM_3887,		0, SM_3887},
+{3888, "L or R Hockey Stick",		1,	PDEA_NONE,	SM_3888,		0, FRM_3888},
+{3889, "Santa Hat",					1,	PDEA_NONE,	SM_3889,		0, SM_3889},
+
+//20191213 Palace station
+{3890, "Number 2",					1,	PDEA_NONE,	SM_3890,		0, SM_3890},
 
 //////////////////////////////////////////////////
 // Games with Special Bitmap

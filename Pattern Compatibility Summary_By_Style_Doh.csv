@@ -1733,6 +1733,49 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,PatList,3845,OC_6bllcll_AnyLne,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,PatList,3846,OC_6bllcll_dblrglr,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,PatList,3847,OC_6bllcll_Flt6pck,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3848,Anchor,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3849,Firecracker 2,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3850,Bench,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3851,Trophy,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3852,Football Jersey,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3853,Number 3,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3854,Number 21,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3855,Smile,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3856,Giraffe,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,PatList,3857,OC_7BC_smllPF,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,PatList,3858,OC_7BC_hardway,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3859,Devils Horns,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3860,Black Cat,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3861,Jack O Lantern,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3862,Monster,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3863,Graveyard,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3864,B row Btn,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3865,Headless,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3866,ScaryCrow,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3867,Cactus,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3868,Turtle,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3869,Angel,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3870,Skull,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3871,Hockey Stick,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3872,Hockey Net,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3873,Vegas V,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3874,Knight Sword,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3875,Knight Helmet,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3876,Spooky Cat,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3877,Pumpkin,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3878,Hat,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3879,Ghost,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3880,Number 2,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3881,Turkey,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3882,2020,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3883,Autumn Leaf,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3884,Autumn Moon,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3885,Pair Of Skis,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3886,Snow Mobile,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3887,Outline Mitten,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3888,L or R Hockey Stick,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3889,Santa Hat,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,3890,Number 2,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,4501,RainBow AWSL,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,4600,Eyes_Hands&Feet,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,4601,Full Body,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -3050,6 +3093,8 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,-1845,OC_6bllcll_AnyLne,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-1846,OC_6bllcll_dblrglr,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-1847,OC_6bllcll_Flt6pck,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,-1857,OC_7BC_smllPF,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,-1858,OC_7BC_hardway,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-1912,4Ball-Reg+4C,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-1913,4Ball-DblReg,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-1914,4Ball-LgDm,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -3116,6 +3161,8 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 1-ON,Overlap,Normal,-2845,OC_6bllcll_AnyLne,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-2846,OC_6bllcll_dblrglr,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-2847,OC_6bllcll_Flt6pck,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,-2857,OC_7BC_smllPF,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+1-ON,Overlap,Normal,-2858,OC_7BC_hardway,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-2912,4Ball-Reg+4C,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-2913,4Ball-DblReg,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 1-ON,Overlap,Normal,-2914,4Ball-LgDm,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
@@ -3303,6 +3350,8 @@ Style,Pattern Type,Overlap?,Pat #,Pattern Name,Traveler,,TED,,TED-2-C,,Handheld,
 4-ON,Overlap,MaskList,434,2CD Coverall,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 4-ON,Overlap,MaskList,435,4CD Double Bingo,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 4-ON,Overlap,MaskList,436,4CD Coverall,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+4-ON,Overlap,UniqueMasks,437,Large 7,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
+4-ON,Overlap,MaskList,438,#Seven 1 card,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 6-ON,Overlap,MaskList,601,2 Card 6 Pack,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 6-ON,Overlap,MaskList,602,4 Card Bingo,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y
 6-ON,Overlap,MaskList,603,4 Card 6 Pack,Trav:,Y,TED:,Y,TED2C:,Y,HH:,Y,FB:,Y

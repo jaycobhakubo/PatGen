@@ -784,7 +784,7 @@ anyway1052 len = 747
 p2934 len = 789
 
 Building library: PATLIBH.bin
-  Total patterns: 3521
+  Total patterns: 3570
 --- 1: Any Line
 Num = 12, Hits = 1, Attribs = 0, MultiBingo = 0 - 
  Masks - 
@@ -35060,6 +35060,51 @@ Num = 1, Hits = 1, Attribs = 8, MultiBingo = 4 - PDEA_MASKLIST
 11111
 11111
 11111
+
+.
+
+
+--- 437: Large 7
+Num = 4, Hits = 1, Attribs = 4, MultiBingo = 4 - PDEA_UNIQUEMASKS 
+ Masks - 
+11111
++++++
++++++
++++++
++++++
+
+.
+++++1
++++1+
+++1++
++1+++
+1++++
+
+.
+11111
++++1+
+++1++
++1+++
+1++++
+
+.
++++++
++++++
++++++
++++++
++++++
+
+.
+
+
+--- 438: #Seven 1 card
+Num = 1, Hits = 1, Attribs = 8, MultiBingo = 1 - PDEA_MASKLIST 
+ Masks - 
+11111
++++1+
+++1++
++1+++
+1++++
 
 .
 
@@ -330489,6 +330534,602 @@ Num = 24, Hits = 1, Attribs = 0, MultiBingo = 0 -
 +++11
 +++11
 +++11
+
+.
+
+
+--- 3848: Anchor
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+11111
+++1++
+++1++
+1+1+1
++111+
+
+.
+
+
+--- 3849: Firecracker 2
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1+1+1
++1+1+
+1+1+1
+++1++
+++1++
+
+.
+
+
+--- 3850: Bench
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
++++++
+11111
+11111
++1+1+
+
+.
+
+
+--- 3851: Trophy
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++1+1+
+11+11
++111+
+++1++
++111+
+
+.
+
+
+--- 3852: Football Jersey
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+11+11
+11111
++111+
++111+
++111+
+
+.
+
+
+--- 3853: Number 3
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++1111
+++++1
++1111
+++++1
++1111
+
+.
+
+
+--- 3854: Number 21
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+111+1
+++1+1
+111+1
+1+++1
+111+1
+
+.
+
+
+--- 3855: Smile
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
++1+1+
++++++
+1+++1
++111+
+
+.
+
+
+--- 3856: Giraffe
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+11+++
++1+++
++1+++
++111+
++1+1+
+
+.
+
+
+--- -1857: OC_7BC_smllPF
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1+++1
++++++
++++++
++++++
+1+++1
+
+.
+
+
+--- -2857: OC_7BC_smllPF
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
++111+
++1+1+
++111+
++++++
+
+.
+
+
+--- -1858: OC_7BC_hardway
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1+++1
++++++
++++++
++++++
+1+++1
+
+.
+
+
+--- -2858: OC_7BC_hardway
+Num = 8, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1++++
+1++++
+1++++
+1++++
+1++++
+
+.
++1+++
++1+++
++1+++
++1+++
++1+++
+
+.
++++1+
++++1+
++++1+
++++1+
++++1+
+
+.
+++++1
+++++1
+++++1
+++++1
+++++1
+
+.
+11111
++++++
++++++
++++++
++++++
+
+.
++++++
+11111
++++++
++++++
++++++
+
+.
++++++
++++++
++++++
+11111
++++++
+
+.
++++++
++++++
++++++
++++++
+11111
+
+.
+
+
+--- 3859: Devils Horns
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++1+1+
+1+++1
+1+1+1
+11111
++111+
+
+.
+
+
+--- 3860: Black Cat
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+11+++
+11++1
++111+
+11111
+1+++1
+
+.
+
+
+--- 3861: Jack O Lantern
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+11111
+1+1+1
+11111
+1+++1
+11111
+
+.
+
+
+--- 3862: Monster
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1+1+1
++111+
+++1++
++111+
++1+1+
+
+.
+
+
+--- 3863: Graveyard
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++1++
++111+
+++1++
+++1++
+11111
+
+.
+
+
+--- 3864: B row Btn
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1++++
+1++++
+1++++
+1++++
+1+++1
+
+.
+
+
+--- 3865: Headless
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
+11+11
+++1++
++1+1+
+1+++1
+
+.
+
+
+--- 3866: ScaryCrow
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1+1+1
+11+11
+++1++
++1+1+
+1+++1
+
+.
+
+
+--- 3867: Cactus
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++1+1
+++111
+11+++
+1+1++
+++1++
+
+.
+
+
+--- 3868: Turtle
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++1++
+11111
++1+1+
++111+
+11111
+
+.
+
+
+--- 3869: Angel
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1+++1
+11+11
++1+1+
+1+1+1
+++1++
+
+.
+
+
+--- 3870: Skull
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+11111
+1+1+1
++1+1+
++111+
++1+1+
+
+.
+
+
+--- 3871: Hockey Stick
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++1+
++++1+
++++1+
++111+
++111+
+
+.
+
+
+--- 3872: Hockey Net
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+11111
+11111
+1+++1
+1+++1
+1+++1
+
+.
+
+
+--- 3873: Vegas V
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1+++1
+11+11
++1+1+
++1+1+
+++1++
+
+.
+
+
+--- 3874: Knight Sword
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++1++
+++1++
++1+1+
+++1++
++++++
+
+.
+
+
+--- 3875: Knight Helmet
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++111+
+1+1+1
+11+11
+1+1+1
+1+++1
+
+.
+
+
+--- 3876: Spooky Cat
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++11
+1++11
+111++
+1+1++
+1+1++
+
+.
+
+
+--- 3877: Pumpkin
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++++
+++1++
++111+
++111+
++111+
+
+.
+
+
+--- 3878: Hat
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++1++
++111+
++111+
+11111
++++++
+
+.
+
+
+--- 3879: Ghost
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++111+
+1+++1
+1+++1
++1+1+
++1+1+
+
+.
+
+
+--- 3880: Number 2
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++111+
+11+11
++++1+
++11++
+11111
+
+.
+
+
+--- 3881: Turkey
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1++11
+1++1+
+11+1+
+111++
++11++
+
+.
+
+
+--- 3882: 2020
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+11111
++11+1
+111+1
+1+1+1
+11111
+
+.
+
+
+--- 3883: Autumn Leaf
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+111++
+1++1+
+1+11+
++111+
+++++1
+
+.
+
+
+--- 3884: Autumn Moon
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++++1+
++++11
+++111
+11111
++111+
+
+.
+
+
+--- 3885: Pair Of Skis
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1++++
+11111
++++++
+1++++
+11111
+
+.
+
+
+--- 3886: Snow Mobile
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++1+++
+1++++
+11+11
++111+
+11111
+
+.
+
+
+--- 3887: Outline Mitten
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++11+
++1++1
++1++1
+11++1
+11++1
+
+.
+
+
+--- 3888: L or R Hockey Sti
+Num = 2, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+1++++
++1+++
+++1++
+++111
+++111
+
+.
+++++1
++++1+
+++1++
+111++
+111++
+
+.
+
+
+--- 3889: Santa Hat
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
+++11+
++1111
++11++
+1111+
+1111+
+
+.
+
+
+--- 3890: Number 2
+Num = 1, Hits = 1, Attribs = 0, MultiBingo = 0 - 
+ Masks - 
++111+
++++1+
++111+
++1+++
++111+
 
 .
 
